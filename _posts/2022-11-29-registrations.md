@@ -6,9 +6,9 @@ categories: [Публикации, Инструкции]
 tags: [инструкция,регистрация,акаунт,профил]
 toc: false
 pin: true
-img_path: /assets/img/
+# img_path: /assets/img/
 image:
-  path: registration.jpeg
+  path: assets\img\registration.jpeg
   width: 800
   height: 500
   alt: Регистриране на профил в Chatrix.One
