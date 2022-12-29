@@ -37,6 +37,6 @@ order: 4
 
 ![Compliance](https://compliance.conversations.im/badge/chatrix.one)
 
-![Domain](https://xmpp.net/badge.php?domain=chatrix.one)
+![Domain]('https://xmpp.net/badge.php?domain=chatrix.one')
 
-![Uptime-365d](https://uptime.tinyserver.eu/api/badge/121/uptime/8760?label=365&labelSuffix=d)
+![Uptime-365d]('https://uptime.tinyserver.eu/api/badge/121/uptime/8760?label=365&labelSuffix=d')
