@@ -7,6 +7,17 @@ order: 4
 
 На тази страница ще намерите информация относно работоспособността на услугата, както и известия за планирани профилактики.
 
+| Показател                  |Стойност                                             |
+|:---------------------------|:---------------------------------------------------:|
+| Среден пинг за последните 24 часа   |![Ping Av](https://uptime.tinyserver.eu/api/badge/120/ping) |
+| Достъпност за последните 24 часа |![Uptime-24h](https://uptime.tinyserver.eu/api/badge/121/uptime/24)|
+
+## Съответствие и съвместимост
+
+| Тест                 |Резултат                                                     |
+|:---------------------|----------------------------------------------------------------:|
+| XMPP Съответствие    | ![Compliance](https://compliance.conversations.im/badge/chatrix.one) |
+
 ## Технически данни
 
 ### XMPP Сървър
@@ -32,11 +43,3 @@ order: 4
 | Файлова система      | ZFS (RAIDZ-1)                  |
 | Операционна система  | Debian 11 (Bullseye)           |
 | Локация              | България                       |
-
-![Ping Av](https://uptime.tinyserver.eu/api/badge/120/ping)
-
-![Compliance](https://compliance.conversations.im/badge/chatrix.one)
-
-![Domain]('https://xmpp.net/badge.php?domain=chatrix.one')
-
-![Uptime-365d]('https://uptime.tinyserver.eu/api/badge/121/uptime/8760?label=365&labelSuffix=d')
