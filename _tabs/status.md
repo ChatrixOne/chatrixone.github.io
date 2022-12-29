@@ -7,6 +7,8 @@ order: 4
 
 На тази страница ще намерите информация относно работоспособността на услугата, както и известия за планирани профилактики.
 
+## Технически данни
+
 ### XMPP Сървър
 
 | Параметър            | Стойност                        |
@@ -30,3 +32,9 @@ order: 4
 | Файлова система      | ZFS (RAIDZ-1)                  |
 | Операционна система  | Debian 11 (Bullseye)           |
 | Локация              | България                       |
+
+* * *
+
+![Ping Av](https://uptime.tinyserver.eu/api/badge/120/ping)
+
+![Compliance](https://compliance.conversations.im/badge/chatrix.one)
