@@ -19,7 +19,7 @@ order: 4
 |:---------------------------|:---------------------------------------------------:|
 | Среден пинг за последните 24 часа   |![Ping Av](https://uptime.tinyserver.eu/api/badge/120/ping) |
 | Достъпност за последните 24 часа |![Uptime-24h](https://uptime.tinyserver.eu/api/badge/121/uptime/24)|
-
+| Достъпност за последните 30 дни  |<img src="https://uptime.tinyserver.eu/api/badge/121/uptime/720?label=30&labelSuffix=d" alt="Uptime for the last 30 days" class=" lazyloaded" data-proofer-ignore="" width="72" height="20">|
 ### Съответствие и съвместимост
 
 | Тест                 |Резултат                                                     |
@@ -52,5 +52,3 @@ order: 4
 | Операционна система  | Debian 11 (Bullseye)           |
 | Локация              | България                       |
 
-Test
-<a <img src='https://uptime.tinyserver.eu/api/badge/121/uptime/720?label=30&labelSuffix=d' /></a>
