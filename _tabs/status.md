@@ -53,4 +53,4 @@ order: 4
 | Локация              | България                       |
 
 Test
-<a href='https://blog.chatrix.one'><img src='https://uptime.tinyserver.eu/api/badge/121/uptime/720?label=30&labelSuffix=d' /></a>
+<a <img src='https://uptime.tinyserver.eu/api/badge/121/uptime/720?label=30&labelSuffix=d' /></a>
