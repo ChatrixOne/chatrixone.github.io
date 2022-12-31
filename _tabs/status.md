@@ -19,8 +19,7 @@ order: 4
 |:---------------------------|:---------------------------------------------------:|
 | Среден пинг за последните 24 часа   |![Ping Av](https://uptime.tinyserver.eu/api/badge/120/ping) |
 | Достъпност за последните 24 часа |![Uptime-24h](https://uptime.tinyserver.eu/api/badge/121/uptime/24)|
-| Достъпност за последните 30 дни  |<img src="https://img.shields.io/github/contributors/cotes2020/jekyll-theme-chirpy?color=informational&amp;style=flat-square" data-src="https://img.shields.io/github/contributors/cotes2020/jekyll-theme-chirpy?color=informational&amp;style=flat-square" alt="GitHub contributors" class=" lazyloaded" data-proofer-ignore="" width="100" height="20">|
-
+| Достъпност за последните 30 дни  |<a href='https://blog.chatrix.one'><img src='https://uptime.tinyserver.eu/api/badge/121/uptime/720?label=30&labelSuffix=d' /></a>|
 
 ### Съответствие и съвместимост
 
@@ -54,3 +53,4 @@ order: 4
 | Операционна система  | Debian 11 (Bullseye)           |
 | Локация              | България                       |
 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
