@@ -51,3 +51,6 @@ order: 4
 | Файлова система      | ZFS (RAIDZ-1)                  |
 | Операционна система  | Debian 11 (Bullseye)           |
 | Локация              | България                       |
+
+Test
+<a href='https://blog.chatrix.one'><img src='https://uptime.tinyserver.eu/api/badge/121/uptime/720?label=30&labelSuffix=d' /></a>
