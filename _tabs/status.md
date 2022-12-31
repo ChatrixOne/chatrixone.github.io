@@ -27,7 +27,7 @@ order: 4
 | Тест                 |Резултат                                                     |
 |:---------------------|----------------------------------------------------------------:|
 | XMPP Съответствие    | ![Compliance](https://compliance.conversations.im/badge/chatrix.one) |
-| Версия на уебсайта |![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/chatrixone/chatrixone.github.io/pages-deploy.yml?logo=C)|
+| Версия на уебсайта |<img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/chatrixone/chatrixone.github.io/pages-deploy.yml?logo=C">|
 
 ### Технически данни
 
