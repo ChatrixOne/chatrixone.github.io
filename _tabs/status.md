@@ -19,14 +19,15 @@ order: 4
 |:---------------------------|:---------------------------------------------------:|
 | Среден пинг за последните 24 часа   |![Ping Av](https://uptime.tinyserver.eu/api/badge/120/ping) |
 | Достъпност за последните 24 часа |![Uptime-24h](https://uptime.tinyserver.eu/api/badge/121/uptime/24)|
-| Достъпност за последните 30 дни  |<a href='https://blog.chatrix.one'><img src='https://uptime.tinyserver.eu/api/badge/121/uptime/720?label=30&labelSuffix=d' alt="Uptime 30 days" /></a>
-|
+| Достъпност за последните 30 дни  |<a href='https://blog.chatrix.one'><img src='https://uptime.tinyserver.eu/api/badge/121/uptime/720?label=30&labelSuffix=d' alt="Uptime 30 days" /></a>|
+
 
 ### Съответствие и съвместимост
 
 | Тест                 |Резултат                                                     |
 |:---------------------|----------------------------------------------------------------:|
 | XMPP Съответствие    | ![Compliance](https://compliance.conversations.im/badge/chatrix.one) |
+| Версия на уебсайта |![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/chatrixone/chatrixone.github.io/pages-deploy.yml?logo=C)|
 
 ### Технически данни
 
