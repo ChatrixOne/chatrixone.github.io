@@ -19,7 +19,7 @@ order: 4
 |:---------------------------|:---------------------------------------------------:|
 | Среден пинг за последните 24 часа   |![Ping Av](https://uptime.tinyserver.eu/api/badge/120/ping) |
 | Достъпност за последните 24 часа |![Uptime-24h](https://uptime.tinyserver.eu/api/badge/121/uptime/24)|
-| Достъпност за последните 30 дни  |<a href='https://blog.chatrix.one'><img src='https://uptime.tinyserver.eu/api/badge/121/uptime/720?label=30&labelSuffix=d' /></a>|
+| Достъпност за последните 30 дни  |<img src='https://uptime.tinyserver.eu/api/badge/121/uptime/720?label=30&labelSuffix=d' />|
 
 
 ### Съответствие и съвместимост
