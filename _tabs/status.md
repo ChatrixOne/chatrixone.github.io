@@ -17,9 +17,9 @@ order: 4
 
 | Показател                  |Стойност                                             |
 |:---------------------------|:---------------------------------------------------:|
-| Среден пинг за последните 24 часа   |![Ping Av](https://uptime.tinyserver.eu/api/badge/120/ping) |
-| Достъпност за последните 24 часа |![Uptime-24h](https://uptime.tinyserver.eu/api/badge/121/uptime/24)|
-| Достъпност за последните 30 дни  |<a href='https://blog.chatrix.one'><img src='https://uptime.tinyserver.eu/api/badge/121/uptime/720?label=30&labelSuffix=d' /></a>|
+| Среден пинг за последните 24 часа   |![Ping Average](https://uptime.tinyserver.eu/api/badge/120/ping) |
+| Достъпност за последните 24 часа |![Uptime 24h](https://uptime.tinyserver.eu/api/badge/121/uptime/24)|
+| Достъпност за последните 30 дни  |![Uptime 30d](<a href='https://blog.chatrix.one'><img src='https://uptime.tinyserver.eu/api/badge/121/uptime/720?label=30&labelSuffix=d' /></a>)|
 
 ### Съответствие и съвместимост
 
@@ -52,5 +52,3 @@ order: 4
 | Файлова система      | ZFS (RAIDZ-1)                  |
 | Операционна система  | Debian 11 (Bullseye)           |
 | Локация              | България                       |
-
-![Postgres]('https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white')
