@@ -1,8 +1,23 @@
 ---
 # the default layout is 'page'
+title: За Мен
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Кой съм аз?
+
+Към момента съм оператор и системен администратор на XMPP услугата предлагана от Chatrix.One.
+
+## Контакти
+
+За връзка с мен можете да използвате:
+
+- Имейл: admin[@]chatrix.one[^1]
+- XMPP: admin[@]chatrix.one[^1]
+- Github: [ChatrixOne](https://github.com/ChatrixOne)
+
+> *Този уеб сайт не използва бисквитки или каквито и да било други методи за проследяване!*
+{: .prompt-info }
+
+[^1]: Моля, заменете съчетанието от трите символа `[@]` със символа `@` като не допускате наличието на интервали!
