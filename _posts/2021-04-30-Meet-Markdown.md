@@ -326,7 +326,6 @@ def merge(*args, missing_val = None):
   for i in range(max_length):
     result.append([args[k][i] if i < len(args[k]) else missing_val for k in range(len(args))])
   return outList
-
 ```
 
 ## Команди от терминал
@@ -354,6 +353,24 @@ pie
 "Мазнини" : 60
 "Белтъчини" : 30
 "Въглехидрати" : 10
+```
+
+## Блок схема
+
+```markdown
+graph LR
+    A[Правоъгълник] -- Текст над стрелка --> B((Кръг))
+    A --> C(Заоблен правоъгълник)
+    B --> D{Ромб}
+    C --> D
+```
+
+```mermaid
+graph LR
+    A[Правоъгълник] -- Текст над стрелка --> B((Кръг))
+    A --> C(Заоблен правоъгълник)
+    B --> D{Ромб}
+    C --> D
 ```
 
 ## Математически изрази
