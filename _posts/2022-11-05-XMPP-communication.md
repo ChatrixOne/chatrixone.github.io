@@ -1,6 +1,6 @@
 ---
 title: XMPP - Комуникирай свободно!
-date: 2022-01-05 09:45:00 +0300
+date: 2022-11-05 09:45:00 +0300
 categories: [Публикации, XMPP]
 tags: [xmpp,услуга,безплатна,свободна,комуникация]
 img_path: /assets/img/posts_images/xmpp_communication/
