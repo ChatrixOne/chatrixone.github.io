@@ -3,7 +3,7 @@ title: Работа с текст под Windows
 date: 2020-02-26 07:20:00 +0300
 categories: [Публикации, Софтуер]
 tags: [софтуер,windows,уиндоус,текст,бележки,електронни книги,редактор,редактори,pdf,markdown,документи,електронни таблици,комикси]
-img_path: /assets/img/posts_images/windows_text_editors/
+img_path: /assets/img/posts_images/text_under_windows/
 image:
   path: windows-text-editors.jpg
   width: 800
