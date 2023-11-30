@@ -20,6 +20,8 @@ image:
 - [Ejabberd](https://www.ejabberd.im/index.html)
 - [Prosody](https://prosody.im/)
 - [Openfire](https://www.igniterealtime.org/projects/openfire/)
+- [Metronome](https://metronome.im/)
+- [MongoseIM](https://esl.github.io/MongooseDocs/latest/)
 
 Разбира се всяка си има своите предимства и недостатъци. Аз лично започнах 2018г. с Prosody, като през 2022г. мигрирах към Ejabberd. Описание на причините да направя този преход са налични на [docs.chatrix.one](https://docs.chatrix.one/faq/?h=prosody%3F#ejabberd-prosody).
 
