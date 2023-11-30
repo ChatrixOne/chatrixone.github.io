@@ -144,7 +144,7 @@ image:
 
 Е, заглавието тук казва всичко. Достатъчно е да въведете и думата или изречението, което искате да форматирате. Например: `figlet Chatrix.One`.
 
-http://www.figlet.org
+[figlet](https://github.com/cmatsuoka/figlet)
 
 ## Browsh - Уеб браузър за терминал
 
