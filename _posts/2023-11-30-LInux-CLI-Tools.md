@@ -260,10 +260,10 @@ __  ____  __ ____  ____    _
 Weather report: Sofia, Bulgaria
 
       \   /     Clear
-       .-.      -1(-3) °C      
-    ― (   ) ―   ← 6 km/h       
-       `-’      10 km          
-      /   \     0.0 mm         
+       .-.      -1(-3) °C
+    ― (   ) ―   ← 6 km/h
+       `-’      10 km
+      /   \     0.0 mm
 
 ```
 
