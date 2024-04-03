@@ -1,7 +1,7 @@
 ---
 title: Онлайн инструменти за оператори на XMPP сървър
 date: 2022-06-09 10:25:00 +0300
-categories: [Публикации, XMPP]
+categories: [Публикации, XMPP, Инструменти]
 tags: [xmpp,онлайн,инструменти,оператори,комуникация]
 img_path: /assets/img/posts_images/xmpp_online_tools/
 image:

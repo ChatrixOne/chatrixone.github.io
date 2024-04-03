@@ -1,7 +1,7 @@
 ---
 title: Онлайн инструменти за системни администратори
 date: 2021-09-01 11:30:00 +0300
-categories: [Публикации, Колекции]
+categories: [Публикации, Колекции, Инстументи]
 tags: [колекция,инструменти,услуги,безплатни,sysadmin]
 img_path: /assets/img/posts_images/online_sysadmin_tools/
 image:
