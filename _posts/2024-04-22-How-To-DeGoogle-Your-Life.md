@@ -80,13 +80,13 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 - **Google Pixel 2 XL**;
 - **Google Pixel 2**.
 
-> **Внимание!
+> **Внимание!**
 >
 > ***Нито едно*** от посочените по-долу устройства не отговаря на вече изброените изисквания!
 > **Google Pixel C (dragon)**
 > **Google Nexus 9 (flounder)**
 > **Google Nexus 7 2013 (flox)**
-{: .prompt-warning }
+{: .prompt-danger }
 
 ## ОПЕРАЦИОННИ СИСТЕМИ
 
@@ -243,7 +243,7 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 ### Четене
 
-- [**Book Reader**] | [Сорс код](https://gitlab.com/axet/android-book-reader/tree/HEAD)
+- **Book Reader** | [Сорс код](https://gitlab.com/axet/android-book-reader/tree/HEAD)
 
 - [**LibreOffice Viewer**](https://www.libreoffice.org/download/download-libreoffice/) | [Сорс код](https://cgit.freedesktop.org/libreoffice/core/tree)
 
