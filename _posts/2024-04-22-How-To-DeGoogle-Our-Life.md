@@ -1,9 +1,9 @@
 ---
-title: Как да премахнем Google от личния ни живот?
+title: Как да премахнем Google нашия личен живот?
 date: 2024-04-22 13:30:00 +0300
 categories: [Публикации, Инструкции, Лични пространство, Поверителност]
-tags: [android,андроид,google,гугъл,DeGoogle,privacy,лично пространство]
-img_path: /assets/img/posts_images/degoogle-your-life/
+tags: [android,андроид,google,Гугъл,DeGoogle,privacy,лично пространство,поверителност,личен живот]
+img_path: /assets/img/posts_images/degoogle-our-life/
 pin: false
 image:
   path: degoogle.jpg
@@ -14,7 +14,7 @@ image:
 
 ## От къде идва понятието **deGoogle**?
 
-**Google** е толкова разпространен, че името му е едновременно съществително и глагол. Но дали **Google** е нещо добро? През 2002г., отговорът беше категорично "ДА". Гаголът ***google*** беше избран за дума на годината от **American Dialect Society**!
+**Google** е толкова разпространен, че името му е едновременно съществително и глагол. Но дали **Google** е нещо добро? През 2002г., отговорът беше категорично "ДА". Глаголът ***google*** беше избран за дума на годината от **American Dialect Society**!
 
 Превъртете бързо напред към днешна дата и има вече нов глагол: ***deGoogle***. Това е актът да се отървете от всичко, свързано с **Google**.
 
@@ -83,12 +83,29 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 > **Внимание!**
 >
 > ***Нито едно*** от посочените по-долу устройства не отговаря на вече изброените изисквания!
-> **Google Pixel C (dragon)**
-> **Google Nexus 9 (flounder)**
-> **Google Nexus 7 2013 (flox)**
+>
+> - **Google Pixel C (dragon)**
+> - **Google Nexus 9 (flounder)**
+> - **Google Nexus 7 2013 (flox)**
 {: .prompt-danger }
 
 ## ОПЕРАЦИОННИ СИСТЕМИ
+
+### LineageOS
+
+***A free and open-source operating system for various devices, based on the Android mobile platform.***
+
+**LineageOS** е операционна система за смартфони, таблети и декодери, с предимно безплатен софтуер с отворен код. Наследник е на **CyanogenMod**, чиято разработка бе прекратена декември 2016г.
+
+**LineageOS** беше официално пусната на 23 декември 2016г., като изходният код беше наличен както в **GitHub**, така и в **GitLab**. През март 2017г. бе оповестено, че има един милион потребители, като **OnePlus One** е най-популярното устройство задвижвано от въпросната операционна система.
+
+Голяма част от всички налични модификации на **Android**, всъщност са базирани именно на тази операционна система.
+
+- [Уеб сайт](https://lineageos.org/)
+- [Видео презентация](https://youtu.be/JXzunTc_NHA?feature=shared)
+- [Инструкции](https://wiki.lineageos.org/)
+- [Поддържани устройства](https://wiki.lineageos.org/devices/)
+- [Сорс код в Github](https://github.com/LineageOS)
 
 ### DivestOS
 
@@ -163,14 +180,16 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 - Отворен код с публичен достъп;
 - Да не зависи от **Google Play Services, Google Cloud Messaging (GCM)**;
+- Стабилна общност стояща зад проекта;
 - Тестван;
 - Наличен в **F-Droid** или **Aurora Store**;
+- Ако има нужда от Интернет достъп, да се знае какви данни и до къде се пренасят;
 - Без излишни разрешения (**Permissions**).
 
-> Внимание!
+> **Съвет**
 >
-> Инсталирайте колкото се може по-малко допълнителен софтуер. Избягвайте даването на излишни разрешения за достъп на инсталираните от Вас приложения.
-{: .prompt-warning }
+> Инсталирайте колкото се може по-малко допълнителен софтуер на вашето устройство. Също така, избягвайте даването на излишни разрешения за достъп на инсталираните от Вас приложения. По-малко приложения означава по-дълъг живот на батерията и по-стабилна работа на устройството.
+{: .prompt-tip }
 
 ### Алтернатива на **Google Play Services**
 
@@ -295,7 +314,7 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 ## Допълнителни ресурси
 
-- [Още приложения с отворен код](https://divestos.org/pages/recommended_apps)
+- [Приложения с отворен код препоръчани от **DivestOS**](https://divestos.org/pages/recommended_apps)
 
 - [**Digital Defense - Mobile Devices**](https://digital-defense.io/checklist/mobile-devices/)
 
