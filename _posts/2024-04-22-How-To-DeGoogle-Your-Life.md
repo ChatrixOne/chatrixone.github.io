@@ -174,21 +174,21 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 ### Алтернатива на **Google Play Services**
 
-- [**MicroG**](https://microg.org/) - [Сорс код](https://github.com/microg)
+- [**MicroG**](https://microg.org/) [🔀](https://github.com/microg)
 
 > Инсталирайте само, ако наистина се нуждаете от услуги изискващи достъп до Вашия профил в **Google**!
 
 ### Магазини за приложения
 
-- [**F-Droid**](https://f-droid.org/) - [Сорс код](https://gitlab.com/fdroid)
+- [**F-Droid**](https://f-droid.org/) [🔀](https://gitlab.com/fdroid)
 
-- [**Aurora Store**](https://auroraoss.com/) - [Сорс код](https://gitlab.com/AuroraOSS/AuroraStore)
+- [**Aurora Store**](https://auroraoss.com/) [🔀](https://gitlab.com/AuroraOSS/AuroraStore)
 
 ### Начален екран (**Launcher**)
 
-- **Trebuchet** - [Сорс код](https://github.com/LineageOS/android_packages_apps_Trebuchet)
+- **Trebuchet** [🔀](https://github.com/LineageOS/android_packages_apps_Trebuchet)
 
-- [**Lawnchair**](https://lawnchair.app/) - [Сорс код](https://github.com/LawnchairLauncher/lawnchair)
+- [**Lawnchair**](https://lawnchair.app/) [🔀](https://github.com/LawnchairLauncher/lawnchair)
 
 ### Клавиатура
 
@@ -199,99 +199,99 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 ### Уеб браузър и добавки
 
-- **Mull** - [Сорс код](https://codeberg.org/divested-mobile/mull-fenix)
-  - [**uBlock Origin**](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - [Сорс код](https://github.com/gorhill/uBlock)
+- **Mull** [🔀](https://codeberg.org/divested-mobile/mull-fenix)
+  - [**uBlock Origin**](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) [🔀](https://github.com/gorhill/uBlock)
 
 - [**Firefox**](https://www.mozilla.org/en-US/firefox/)
-  - [**uBlock Origin**](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - [Сорс код](https://github.com/gorhill/uBlock)
+  - [**uBlock Origin**](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) [🔀](https://github.com/gorhill/uBlock)
 
 ### Сигурност
 
-- [**NetGuard**](https://netguard.me/) - [Сорс код](https://github.com/M66B/NetGuard)
+- [**NetGuard**](https://netguard.me/) [🔀](https://github.com/M66B/NetGuard)
 
-- [**PCAPdroid**](https://emanuele-f.github.io/PCAPdroid/) - [Сорс код](https://github.com/emanuele-f/PCAPdroid)
+- [**PCAPdroid**](https://emanuele-f.github.io/PCAPdroid/) [🔀](https://github.com/emanuele-f/PCAPdroid)
 
-- **Shelter** - [Сорс код](https://gitea.angry.im/PeterCxy/Shelter)
+- **Shelter** [🔀](https://gitea.angry.im/PeterCxy/Shelter)
 
-- **Scrambled Exif** - [Сорс код](https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD)
+- **Scrambled Exif** [🔀](https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD)
 
-- [**Exodus**](https://exodus-privacy.eu.org/en/) - [Сорс код](https://github.com/Exodus-Privacy/exodus-android-app)
+- [**Exodus**](https://exodus-privacy.eu.org/en/) [🔀](https://github.com/Exodus-Privacy/exodus-android-app)
 
 ### Мениджър на пароли и двуфакторно удостоверяване (**2FA**)
 
-- [**Bitwarden**](https://bitwarden.com/) - [Сорс код](https://github.com/bitwarden/mobile)
+- [**Bitwarden**](https://bitwarden.com/) [🔀](https://github.com/bitwarden/mobile)
 
-- [**Aegis**](https://getaegis.app/) - [Сорс код](https://github.com/beemdevelopment/Aegis)
+- [**Aegis**](https://getaegis.app/) [🔀](https://github.com/beemdevelopment/Aegis)
 
 ### **VPN**
 
-- [**Wireguard**](https://www.wireguard.com/) - [Сорс код](https://github.com/WireGuard/wireguard-android)
+- [**Wireguard**](https://www.wireguard.com/) [🔀](https://github.com/WireGuard/wireguard-android)
 
 ### Навигация
 
-- [**Organic Maps**](https://organicmaps.app/) - [Сорс код](https://github.com/organicmaps/organicmaps)
+- [**Organic Maps**](https://organicmaps.app/) [🔀](https://github.com/organicmaps/organicmaps)
 
-- [**OpenStreetMap**](https://www.openstreetmap.org) - [Сорс код](https://github.com/osmandapp/Osmand)
+- [**OpenStreetMap**](https://www.openstreetmap.org) [🔀](https://github.com/osmandapp/Osmand)
 
-- **GPSTest** - [Сорс код](https://github.com/barbeau/gpstest)
+- **GPSTest** [🔀](https://github.com/barbeau/gpstest)
 
 ### Спорт и здраве
 
-- [**Inner Breeze**](https://inner-breeze.app/) - [Сорс код](https://github.com/naoxio/inner_breeze)
+- [**Inner Breeze**](https://inner-breeze.app/) [🔀](https://github.com/naoxio/inner_breeze)
 
-- **Passeo** - [Сорс код](https://gitlab.com/pardomi/paseo/tree/HEAD)
+- **Passeo** [🔀](https://gitlab.com/pardomi/paseo/tree/HEAD)
 
 ### Четене
 
-- **Book Reader** - [Сорс код](https://gitlab.com/axet/android-book-reader/tree/HEAD)
+- **Book Reader** [🔀](https://gitlab.com/axet/android-book-reader/tree/HEAD)
 
-- [**LibreOffice Viewer**](https://www.libreoffice.org/download/download-libreoffice/) - [Сорс код](https://cgit.freedesktop.org/libreoffice/core/tree)
+- [**LibreOffice Viewer**](https://www.libreoffice.org/download/download-libreoffice/) [🔀](https://cgit.freedesktop.org/libreoffice/core/tree)
 
-- [**Feeder**](https://news.nononsenseapps.com/) - [Сорс код](https://github.com/spacecowboy/Feeder)
+- [**Feeder**](https://news.nononsenseapps.com/) [🔀](https://github.com/spacecowboy/Feeder)
 
-- **Quote Unquote** - [Сорс код](https://github.com/jameshnsears/QuoteUnquote)
+- **Quote Unquote** [🔀](https://github.com/jameshnsears/QuoteUnquote)
 
 ### Водене на записки
 
-- [**Joplin**](https://joplinapp.org/) - [Сорс код](https://github.com/laurent22/joplin/)
+- [**Joplin**](https://joplinapp.org/) [🔀](https://github.com/laurent22/joplin/)
 
 ### Синхронизация - Файлове, Календари, Контакти
 
-- [**Nextcloud**](https://nextcloud.com/) - [Сорс код](https://github.com/nextcloud)
+- [**Nextcloud**](https://nextcloud.com/) [🔀](https://github.com/nextcloud)
 
-- [**DAVx<sup>5</sup>**](https://www.davx5.com/) - [Сорс код](https://github.com/bitfireAT/davx5-ose)
+- [**DAVx<sup>5</sup>**](https://www.davx5.com/) [🔀](https://github.com/bitfireAT/davx5-ose)
 
 ### Електронна поща
 
-- [**K-9 Mail**](https://k9mail.app/) - [Сорс код](https://github.com/k9mail)
+- [**K-9 Mail**](https://k9mail.app/) [🔀](https://github.com/k9mail)
 
 ### Незабавни съобщения
 
-- [**Conversations**](https://conversations.im/) - [Сорс код](https://codeberg.org/inputmice/Conversations)
+- [**Conversations**](https://conversations.im/) [🔀](https://codeberg.org/inputmice/Conversations)
 
-- [**Gotify**](https://gotify.net/) - [Сорс код](https://github.com/gotify)
+- [**Gotify**](https://gotify.net/) [🔀](https://github.com/gotify)
 
 ### Социални мрежи
 
-- [**Element**](https://element.io/) - [Сорс код](https://github.com/element-hq/element-android)
+- [**Element**](https://element.io/) [🔀](https://github.com/element-hq/element-android)
 
 ### Прогноза за времето
 
-- **Breezy Weather** - [Сорс код](https://github.com/breezy-weather/breezy-weather)
+- **Breezy Weather** [🔀](https://github.com/breezy-weather/breezy-weather)
 
 ### Галерия - снимки
 
-- [**Fossify Gallery**](https://www.fossify.org/) - [Сорс код](https://github.com/FossifyOrg/Gallery)
+- [**Fossify Gallery**](https://www.fossify.org/) [🔀](https://github.com/FossifyOrg/Gallery)
 
 ### Клиентски карти
 
-- [**Catima**](https://catima.app/) - [Сорс код](https://github.com/CatimaLoyalty)
+- [**Catima**](https://catima.app/) [🔀](https://github.com/CatimaLoyalty)
 
 ### Медия - Аудио/Видео
 
-- [**VLC**](https://www.videolan.org/vlc/download-android.html) - [Сорс код](https://code.videolan.org/videolan/vlc-android)
+- [**VLC**](https://www.videolan.org/vlc/download-android.html) [🔀](https://code.videolan.org/videolan/vlc-android)
 
-- [**NewPipe**](https://newpipe.net/) - [Сорс код](https://github.com/TeamNewPipe/NewPipe)
+- [**NewPipe**](https://newpipe.net/) [🔀](https://github.com/TeamNewPipe/NewPipe)
 
 ## Допълнителни ресурси
 
