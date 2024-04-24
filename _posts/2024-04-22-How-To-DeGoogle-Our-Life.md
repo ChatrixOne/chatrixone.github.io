@@ -116,10 +116,11 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 Голяма част от всички налични модификации на **Android**, всъщност са базирани именно на тази операционна система.
 
 - [Уеб сайт](https://lineageos.org/)
-- [Видео презентация](https://youtu.be/JXzunTc_NHA?feature=shared)
 - [Инструкции](https://wiki.lineageos.org/)
 - [Поддържани устройства](https://wiki.lineageos.org/devices/)
 - [Сорс код в Github](https://github.com/LineageOS)
+
+{% include embed/youtube.html id='JXzunTc_NHA' %}
 
 ### DivestOS
 
@@ -137,12 +138,13 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 На 18.03.2023г. в Бостън, щата Масачузетс, на ежегодната конференция на [**Free Software Foundation - FSF**](https://www.fsf.org/), разработчикът на **DivestOS** - **Tad (SkewedZeppelin)**, е отличен с награда за значителен принос в сферата на свободния софтуер. Повече информация относно събитието, можете да прочетете на страницата на [**FSF**](https://www.fsf.org/news/free-software-awards-winners-announced-eli-zaretskii-tad-skewedzeppelin-gnu-jami).
 
 - [Уеб сайт](https://divestos.org/)
-- [Видео презентация](https://www.youtube.com/watch?v=jaWmvbrQl4U)
 - [Инструкции](https://divestos.org/pages/bootloader)
 - [Поддържани устройства](https://divestos.org/pages/devices)
 - [Сорс код в Github](https://github.com/divested-mobile)
 - [Сорс код в Gitlab](https://gitlab.com/divested-mobile)
 - [Сорс код в Codeberg](https://codeberg.org/divested-mobile)
+
+{% include embed/youtube.html id='jaWmvbrQl4U' %}
 
 ### GrapheneOS
 
@@ -151,10 +153,11 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 Ако поставяте сигурността на първо място, вероятно **GrapheneOS** е най-добрият избор за Вас. Разработена като проект с нестопанска цел и отворен код. Разработчикът се е постарал да премахне всичко излишно от основния инсталационен пакет. По този начин, значително е намалено полето за изява на редица хакерски атаки.
 
 - [Уеб сайт](https://grapheneos.org/)
-- [Видео презентация](https://youtu.be/yIZmUINSvQ4?feature=shared)
 - [Инструкции](https://grapheneos.org/install/)
 - [Поддържани устройства](https://grapheneos.org/releases)
 - [Сорс код в Github](https://github.com/GrapheneOS)
+
+{% include embed/youtube.html id='yIZmUINSvQ4' %}
 
 ### CalyxOS
 
@@ -163,10 +166,11 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 Операционната система се разработва от [**Calyx Institute**](https://calyxinstitute.org/). Тук също фокусът е върху защита на личното пространство и сигурността.
 
 - [Уеб сайт](https://calyxos.org/)
-- [Видео презентация](https://youtu.be/qTtgzNGRAfA?feature=shared)
 - [Инструкции](https://calyxos.org/docs/guide/getting-started/)
 - [Поддържани устройства](https://calyxos.org/docs/guide/device-support/)
 - [Сорс код в GitLab](https://gitlab.com/CalyxOS)
+
+{% include embed/youtube.html id='qTtgzNGRAfA' %}
 
 ### /e/OS
 
@@ -175,10 +179,11 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 Основната идея на този проект е, освен операционна система, да предлага и онлайн услуги, целящи защита на личното пространство. Проектът **/e/OS** е получил [академично признание](https://www.tcd.ie/news_events/articles/study-reveals-scale-of-data-sharing-from-android-mobile-phones/), от изследователи от Университета в Единбург и Тринити Колидж в Дъблин.
 
 - [Уеб сайт](https://e.foundation)
-- [Видео презентация](https://youtu.be/aNjnMEMWMLY?feature=shared)
 - [Инструкции](https://doc.e.foundation/devices)
 - [Поддържани устройства](https://doc.e.foundation/devices)
 - [Сорс код в GitLab](https://gitlab.e.foundation/e)
+
+{% include embed/youtube.html id='aNjnMEMWMLY' %}
 
 ### iode
 
@@ -187,10 +192,11 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 По-различното при този проект е, че предлага закупуването на устройства с предварително инсталирана **iode** операционна система. Отново фокусът е върху сигурността и защитата на личното пространство. Предлага още вграден родителски контрол и защита от тракери.
 
 - [Уеб сайт](https://iode.tech/)
-- [Видео презентация](https://youtu.be/ujJciKxvn6g?feature=shared)
 - [Инструкции](https://iode.tech/iodeos-installation/)
 - [Поддържани устройства](https://iode.tech/iodeos-installation/)
 - [Сорс код в Github](https://gitlab.com/iode/)
+
+{% include embed/youtube.html id='ujJciKxvn6g' %}
 
 ## Софтуер
 
