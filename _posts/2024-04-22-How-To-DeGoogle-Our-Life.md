@@ -14,7 +14,7 @@ image:
 
 ## От къде идва понятието **deGoogle**?
 
-**Google** е толкова разпространен, че името му е едновременно съществително и глагол. Но дали **Google** е нещо добро? През 2002г., отговорът беше категорично "ДА". Глаголът ***google*** беше избран за дума на годината от **American Dialect Society**!
+**Google** е толкова разпространен, че името му е едновременно съществително и глагол. Но дали **Google** е нещо добро? През 2002г., отговорът беше категорично "ДА". Глаголът ***google*** беше избран за дума на годината от [**American Dialect Society**](https://americandialect.org/2002_words_of_the_year/). Още повече, на 08 януари 2010г., същата тази дума е избрана вече за [дума на десетилетието](https://americandialect.org/2009_word_of_the_year_is_tweet_word_of_the_decade_is_google/)!
 
 Превъртаме бързо напред към днешна дата и вече имаме нов глагол: ***degoogle***. Това е действие по премахване на всичко, свързано с **Google** от нашия живот.
 
@@ -201,7 +201,6 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 > Това, че дадено приложение е с отворен код, в никакъв случай не означава, че то е 100% сигурно или проверено.
 {: .prompt-warning }
 
-
 > **Предупреждение!**
 >
 > Ако имате намерение да отключите [**root**](https://en.wikipedia.org/wiki/Rooting_(Android)) достъпа до операционната система, уверете се, че сте наясно какво правите! Тази процедура драстично намалява сигурността на устройството!
@@ -222,6 +221,9 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 > Инсталирайте колкото се може по-малко допълнителен софтуер на вашето устройство. Също така, избягвайте даването на излишни разрешения за достъп на инсталираните от Вас приложения. По-малко приложения, означава по-дълъг живот на батерията и по-стабилна работа на устройството.
 > Приложенията налични в **F-Droid** и **Aurora Store**, са минали през проверка.
 {: .prompt-tip }
+
+![Device Battery Usage](pixel-3xl-battery.png){: width="300" height="500" }
+_При добре конфигурираните устройства, батерията често издържа по няколко дни._
 
 ### Алтернатива на **Google Play Services**
 
@@ -367,14 +369,16 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 | **NewPipe**     | [🌐](https://newpipe.net/) | [🛠️](https://github.com/TeamNewPipe/NewPipe) | [🛍️](https://f-droid.org/en/packages/org.schabi.newpipe/) |
 | **Fossify Gallery** | [🌐](https://www.fossify.org/) | [🛠️](https://github.com/FossifyOrg/Gallery) | [🛍️](https://f-droid.org/en/packages/org.fossify.gallery/) |
 
-Този списък не е изчерпателен. Представлява един пример, за това как можем да намерим приложения с отворен код и ценящи личното пространство, за нещата от които се нуждаем в нашето ежедневие. Подобни списъци и допълнителни съвети, относно нашата онлайн активност, са налични в редовете по-долу.
+Този списък с мобилни приложения не е изчерпателен. Представлява един пример, за това как можем да намерим приложения с отворен код, чиято цел не е да събират нашите данни. Подобен списък, както и допълнителни съвети, можете да прочетете в последния раздел "*Допълнителни ресурси*".
 
 ## Допълнителни ресурси
 
 - [Приложения с отворен код препоръчани от **DivestOS**](https://divestos.org/pages/recommended_apps)
 
-- [**Digital Defense - Mobile Devices**](https://digital-defense.io/checklist/mobile-devices/)
-
 - [Мобилни устройства - добри практики](https://media.defense.gov/2021/Sep/16/2002855921/-1/-1/0/MOBILE_DEVICE_BEST_PRACTICES_FINAL_V3%20-%20COPY.PDF)
 
 - [Социални медии - добри практики](https://media.defense.gov/2021/Sep/16/2002855950/-1/-1/0/CSI_KEEPING_SAFE_ON_SOCIAL_MEDIA_20210806.pdf)
+
+- [**Cutting Google out of your life**](https://github.com/tycrek/degoogle)
+
+- [**Digital Defense - Mobile Devices**](https://digital-defense.io/checklist/mobile-devices/)
