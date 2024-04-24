@@ -116,11 +116,10 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 Голяма част от всички налични модификации на **Android**, всъщност са базирани именно на тази операционна система.
 
 - [Уеб сайт](https://lineageos.org/)
+- [Видео презентация](https://youtu.be/JXzunTc_NHA?feature=shared)
 - [Инструкции](https://wiki.lineageos.org/)
 - [Поддържани устройства](https://wiki.lineageos.org/devices/)
 - [Сорс код в Github](https://github.com/LineageOS)
-
-{% include embed/{youtube}.html id='{JXzunTc_NHA}' %}
 
 ### DivestOS
 
@@ -138,6 +137,7 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 На 18.03.2023г. в Бостън, щата Масачузетс, на ежегодната конференция на [**Free Software Foundation - FSF**](https://www.fsf.org/), разработчикът на **DivestOS** - **Tad (SkewedZeppelin)**, е отличен с награда за значителен принос в сферата на свободния софтуер. Повече информация относно събитието, можете да прочетете на страницата на [**FSF**](https://www.fsf.org/news/free-software-awards-winners-announced-eli-zaretskii-tad-skewedzeppelin-gnu-jami).
 
 - [Уеб сайт](https://divestos.org/)
+- [Видео презентация](https://www.youtube.com/watch?v=jaWmvbrQl4U)
 - [Инструкции](https://divestos.org/pages/bootloader)
 - [Поддържани устройства](https://divestos.org/pages/devices)
 - [Сорс код в Github](https://github.com/divested-mobile)
