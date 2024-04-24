@@ -16,12 +16,12 @@ image:
 
 **Google** е толкова разпространен, че името му е едновременно съществително и глагол. Но дали **Google** е нещо добро? През 2002г., отговорът беше категорично "ДА". Глаголът ***google*** беше избран за дума на годината от **American Dialect Society**!
 
-Превъртете бързо напред към днешна дата и има вече нов глагол: ***degoogle***. Това е актът да се отървете от всичко, свързано с **Google**.
+Превъртаме бързо напред към днешна дата и вече имаме нов глагол: ***degoogle***. Това е действие по премахване на всичко, свързано с **Google** от нашия живот.
 
 ## Защо да премахнем Google от нашия живот?
 
 1. **Google** знае твърде много за нас!
-От историята на местоположенията, през микрофона и камерите на всички устройства, включително и камерата на звънеца, нещата които търсим онлайн, та чак до всички теми от които се интересуваме. Всичко се проследява и записва!
+От историята на местоположенията, през микрофона и камерите на всички устройства, включително и камерата на звънеца, нещата които търсим онлайн, та чак до всички теми от които се интересуваме. Всичко се проследява и записва.
 
 2. **Google** използва тези данни, за да ни монетизира.
 Това означава, че ние сме продуктът, а не клиентът, дори когато си плащаме.
@@ -31,15 +31,25 @@ image:
 
 4. **Google** има лоша политика за защита поверителността на потребителите. Събират много повече лични данни, отколкото някой може да си представи. Още по-лошо е, че не винаги е ясно кой има достъп и за какво се използват всички тези данни. Това, което знаем, че събират включва:
 
-- Документи, които съхранявате в облака;
+- Контакти;
+- Съобщения;
+- Електронна поща;
+- Документи, които съхраняваме в облака;
 - Използвани приложения;
 - История на търсенията;
 - Взаимодействия с реклами;
-- Нашите имейли;
-- Видеоклипове, които гледаме;
-- Къде сме били (данните от **GPS**);
+- Видео клипове, които гледаме;
+- Къде сме били (данни от **GPS**);
 - **Wi-Fi** мрежи в близост до нас;
-- Информация за други устройства в близост до нас.
+- Информация за други устройства в близост до нас;
+- Профилни снимки;
+- Уникални идентификатори;
+- Тип устройство;
+- Статистика за направени покупки;
+- Информация за мобилната мрежа, име на оператора и телефонен номер;
+- Цялата активност/история в интернет, ако използваме браузъра **Chrome** с активирано синхронизиране на профила.
+
+Със сигурност има и още.
 
 ![Data Harvesting](data_harvesting.gif){: .shadow }
 _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbilt University, August 2018_
@@ -50,17 +60,17 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 ## Устройства
 
-Колкото и парадоксално да звучи, най-подходящи устройства са тези произведени от самите **Google** и по точно серията **Pixel**. В повечето случаи те не са заключени, а и софтуерът за външна намеса е добре документиран.
+Колкото и парадоксално да звучи, най-подходящи устройства са тези, произведени от самите **Google** и по точно серията **Pixel**. В повечето случаи те не са заключени, а и софтуерът за връзка с компютър и външна намеса е добре документиран и се разработва активно.
 
 ### Кои устройства да избягваме
 
-- Брандирани от мобилен оператор;
-- Без достъп до **fastboot** или изискващи създаване на акаунт;
-- Притежаващи по-малко от **6GB** оперативна памет - **RAM**;
-- Притежаващи по-малко от **64GB** вградена памет;
-- Батерия с капацитет по-малко от **2000mAh**;
+- Брандирани от мобилен оператор - обикновено са заключени;
+- Без достъп до [**fastboot** | [🌐](https://en.wikipedia.org/wiki/Fastboot) или изискващи създаване на акаунт;
+- С оперативна памет (**RAM**) под **6GB**;
+- С вградена памет под **64GB**;
+- Батерия с капацитет под **2000mAh**;
 - Произведени преди 2017г.;
-- Процесор различен от **Qualcomm/Tensor SoC**, например - **MediaTek/Exynos/Tegra/OMAP**;
+- Процесор различен от **Qualcomm** или **Tensor SoC**, например - **MediaTek/Exynos/Tegra/OMAP**;
 - С версия на ядрото преди 4.4.
 
 ### Препоръчителни характеристики
@@ -78,13 +88,15 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 - **Google Pixel 5a**;
 - **Google Pixel 4**;
 - **Google Pixel 4a**;
+- **Google Pixel 3XL**
+- **Google Pixel 3**
 - **Google Pixel 3a**
 - **Google Pixel 2 XL**;
 - **Google Pixel 2**.
 
 > **Внимание!**
 >
-> ***Нито едно*** от посочените по-долу устройства не отговаря на вече изброените изисквания!
+> Избягвайте посочените по-долу устройства. Те **не** отговарят на вече изброените препоръчителни изисквания.
 >
 > - **Google Pixel C (dragon)**
 > - **Google Nexus 9 (flounder)**
@@ -95,9 +107,9 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 ### LineageOS
 
-***A free and open-source operating system for various devices, based on the Android mobile platform.***
+*Безплатна операционна система с отворен код за различни устройства, базирана на мобилната платформа **Android**.*
 
-**LineageOS** е операционна система за смартфони, таблети и декодери, предлагаща ни предимно безплатен софтуер с отворен код. Наследник е на **CyanogenMod**, чиято разработка бе прекратена декември 2016г.
+**LineageOS** е операционна система за смартфони, таблети и декодери, предлагаща ни предимно безплатен софтуер с отворен код. Наследник е на [**CyanogenMod**](https://en.wikipedia.org/wiki/CyanogenMod), чиято разработка бе прекратена декември 2016г.
 
 **LineageOS** беше официално пусната на 23 декември 2016г., като изходният код беше наличен както в **GitHub**, така и в **GitLab**. През март 2017г. бе оповестено, че има един милион потребители, като **OnePlus One** е най-популярното устройство задвижвано от въпросната операционна система.
 
@@ -111,15 +123,18 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 ### DivestOS
 
-***A mobile operating system divested from the norm. "take back (some) control of your device"***
+*Мобилна операционна система, страняща от нормата. "върнете (частично) контрола върху вашето устройство".*
 
-Разработва се от 2014г. Основна цел на проекта е, удължаването на живота на устройства, за които производителите вече не предлагат актуализации. Сигурността също е приоритет.
+Разработва се от 2014г. Основна цел на проекта на **Divested Computing Group** е, удължаване живота на устройства, за които производителите вече не предлагат актуализации. Сигурността и поверителността са приоритет.
 
 > **Пример:**
-> **Google Pixel 2XL (taimen)** - произведен 2017г., официално е поддържан от **Google** до декември 2020г., с Андроид версия 11.
-> Благодарение на **DivestOS**, през 2024г. телефонът продължава да получава актуализации и работи безпроблемно под Андроид 13.
+>
+> **Google Pixel 2XL (taimen)** - произведен 2017г., официално е поддържан от **Google** до декември 2020г., с Андроид версия 11. Благодарение на **DivestOS**, през 2024г. телефонът продължава да получава актуализации и работи безпроблемно под Андроид 13.
+{: .prompt-info }
 
-**DivestOS** предоставя опция за блокиране на достъпа до камерата и микрофона чрез едно докосване. Устройството е криптирано по подразбиране. С цел по-голяма сигурност, след инсталиране имате възможност да заключите отново **Bootloader**-а на устройството. Актуализациите са ежемесечни.
+**DivestOS** предоставя удобен начин, за блокиране на достъпа до камерата и микрофона чрез едно докосване, в бързите настройки. Премахва голям брой реклами и тракери, но може да бъде деактивирано от настройките. Устройството е криптирано по подразбиране. С цел по-голяма сигурност, след инсталиране има възможност за последващо заключване на **bootloader**-а. Актуализациите са ежемесечни.
+
+На 18.03.2023г. в Бостън, щата Масачузетс, на ежегодната конференция на [**Free Software Foundation - FSF**](https://www.fsf.org/), разработчикът на **DivestOS** - **Tad (SkewedZeppelin)**, е отличен с награда за значителен принос в сферата на свободния софтуер. Повече информация относно събитието, можете да прочетете на страницата на [**FSF**](https://www.fsf.org/news/free-software-awards-winners-announced-eli-zaretskii-tad-skewedzeppelin-gnu-jami).
 
 - [Уеб сайт](https://divestos.org/)
 - [Инструкции](https://divestos.org/pages/bootloader)
@@ -130,9 +145,9 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 ### GrapheneOS
 
-***The private and secure mobile operating system with Android app compatibility. Developed as a non-profit open source project.***
+*Личната и сигурна мобилна операционна система, съвместима с приложения за Android.*
 
-Ако поставяте сигурността на първо място, вероятно **GrapheneOS** е най-добрият избор за Вас! Разработчикът се е постарал да премахнат всичко излишно от основния инсталационен пакет. Целта е, по този начин да намали полето за изява на голям набор от хакерски атаки.
+Ако поставяте сигурността на първо място, вероятно **GrapheneOS** е най-добрият избор за Вас. Разработена като проект с нестопанска цел и отворен код. Разработчикът се е постарал да премахне всичко излишно от основния инсталационен пакет. Целта е, по този начин да се намали значително полето за изява на редица хакерски атаки.
 
 - [Уеб сайт](https://grapheneos.org/)
 - [Видео презентация](https://youtu.be/yIZmUINSvQ4?feature=shared)
@@ -142,9 +157,9 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 ### CalyxOS
 
-***Your Phone Should Be Private. Everyone needs a phone. Not everyone wants to be spied on. Reclaim your privacy with CalyxOS.***
+*Телефонът Ви трябва да е личен. Всеки има нужда от телефон. Не всеки иска да бъде шпиониран. Възстановете поверителността си с ***CalyxOS***.*
 
-Операционната система се разработва от **Calyx Institute**. Тук също фокусът е върху защита на личното пространство и сигурността.
+Операционната система се разработва от [**Calyx Institute**](https://calyxinstitute.org/). Тук също фокусът е върху защита на личното пространство и сигурността.
 
 - [Уеб сайт](https://calyxos.org/)
 - [Видео презентация](https://youtu.be/qTtgzNGRAfA?feature=shared)
@@ -154,9 +169,9 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 ### /e/OS
 
-***Your data is YOUR data! We build desirable, open source, privacy-enabled smartphone operating systems.***
+*Вашите данни са ВАШИ данни! Ние изграждаме операционни системи за смартфони с отворен код, включващи поверителност.*
 
-Основната идея на проекта е освен операционна система, да предлага и онлайн услуги, целящи защита на личното пространство. Проектът **/e/OS** е получил академично признание, от изследователи от Университета в Единбург и Тринити Колидж в Дъблин.
+Основната идея на този проект е, освен операционна система, да предлага и онлайн услуги, целящи защита на личното пространство. Проектът **/e/OS** е получил [академично признание](https://www.tcd.ie/news_events/articles/study-reveals-scale-of-data-sharing-from-android-mobile-phones/), от изследователи от Университета в Единбург и Тринити Колидж в Дъблин.
 
 - [Уеб сайт](https://e.foundation)
 - [Видео презентация](https://youtu.be/aNjnMEMWMLY?feature=shared)
@@ -166,9 +181,9 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 ### iode
 
-***Take back control of your data. Combine Open Source, Security, and Sustainability, right in your hands.***
+*Върнете контрола върху вашите данни. Комбинирайте отворен код, сигурност и устойчивост, направо във вашите ръце.*
 
-По-различното при този проект е, че предлага закупуването на устройства с предварително инсталирана **iode** операционна система. Отново е фокусирана върху защита на сигурността и личното пространство. Предлага още вграден родителски контрол и защита от тракери.
+По-различното при този проект е, че предлага закупуването на устройства с предварително инсталирана **iode** операционна система. Отново фокусът е върху сигурността и защитата на личното пространство. Предлага още вграден родителски контрол и защита от тракери.
 
 - [Уеб сайт](https://iode.tech/)
 - [Видео презентация](https://youtu.be/ujJciKxvn6g?feature=shared)
@@ -178,7 +193,7 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 ## Софтуер
 
-След като вече имаме устройство с подходяща операционна система, не по-малко важен е изборът на приложенията, които възнамеряваме да инсталираме.
+След като вече имаме устройство с избрана от нас операционна система, от не по-малка значимост е изборът на приложения, които възнамеряваме да инсталираме на нашето мобилно устройство.
 
 > **Предупреждение!**
 >
@@ -204,21 +219,28 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 ### Алтернатива на **Google Play Services**
 
-- [**MicroG**](https://microg.org/) [🔀](https://github.com/microg)
+| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
+| **MicroG**      | [🌐](https://microg.org/) | [🛠️](https://github.com/microg)| [🛍️](https://microg.org/fdroid.html) |
 
+> **Съвет:**
+>
 > Инсталирайте само, ако наистина се нуждаете от услуги изискващи достъп до Вашия профил в **Google**!
+{: .prompt-tip }
 
-### Магазини за приложения
+### Магазини за безплатни (свободни) приложения
 
-- [**F-Droid**](https://f-droid.org/) [🔀](https://gitlab.com/fdroid)
-
-- [**Aurora Store**](https://auroraoss.com/) [🔀](https://gitlab.com/AuroraOSS/AuroraStore)
+| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
+| **F-Droid**     | [🌐](https://f-droid.org/) | [🛠️](https://gitlab.com/fdroid)| [🛍️](https://f-droid.org/F-Droid.apk) |
+| **Aurora Store**| [🌐](https://auroraoss.com/)| [🛠️](https://gitlab.com/AuroraOSS/AuroraStore) | [🛍️](https://f-droid.org/en/packages/com.aurora.store/)|
 
 ### Начален екран (**Launcher**)
 
-- **Trebuchet** [🔀](https://github.com/LineageOS/android_packages_apps_Trebuchet)
-
-- [**Lawnchair**](https://lawnchair.app/) [🔀](https://github.com/LawnchairLauncher/lawnchair)
+| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
+| **Trebuchet**   | ⛔                          | [🛠️](https://github.com/LineageOS/) | Инсталиран по подразбиране |
+| **Lawnchair**   | [🌐](https://lawnchair.app/)| [🛠️](https://github.com/LawnchairLauncher/lawnchair) | [🛍️](https://lawnchair.app/downloads/)|
 
 ### Клавиатура
 
@@ -227,105 +249,124 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 > Съветвам Ви да **НЕ** използвате приложения за клавиатура, които са патентовани и/или изискват достъп до Интернет! Няма значение колко добре работи автоматичното попълване. Разберете, че е недопустимо то да изпраща всичко което въвеждате, на нечий сървър, с единствената цел да бъдат извлечени Вашите данни. Дори няма значение дали има "*добра*" политика за поверителност и дали имате доверие на разработчика. Изпращането на данните крие вероятност, те да бъдат прихванати от по-малко доверена страна.
 {: .prompt-danger }
 
+Най-добре е да се придържате към клавиатурата, предоставена Ви с операционната система.
+
 ### Уеб браузър и добавки
 
-- **Mull** [🔀](https://codeberg.org/divested-mobile/mull-fenix)
-  - [**uBlock Origin**](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) [🔀](https://github.com/gorhill/uBlock)
-
-- [**Firefox**](https://www.mozilla.org/en-US/firefox/)
-  - [**uBlock Origin**](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) [🔀](https://github.com/gorhill/uBlock)
-
-- [**Brave**](https://brave.com/) [🔀](https://github.com/brave/brave-browser)
+| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
+| **Mull** + **uBlock Origin** | ⛔ + [🌐](https://ublockorigin.com/) | [🛠️](https://codeberg.org/divested-mobile/mull-fenix) + [🛠️](https://github.com/gorhill/uBlock)| [🛍️](https://f-droid.org/packages/us.spotco.fennec_dos/) + [🛍️](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|
+| **Firefox** + **uBlock Origin** | [🌐](https://www.mozilla.org/en-US/firefox/) + [🌐](https://ublockorigin.com/) | ⛔ + [🛠️](https://github.com/gorhill/uBlock) | [🛍️](https://play.google.com/store/apps/details?id=org.mozilla.firefox&referrer=utm_source%3Dwww.mozilla.org%26utm_medium%3Dreferral%26utm_campaign%3Dfirefox-browsers-mobile-android&hl=en) + [🛍️](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|
+|**Brave** | [🌐](https://brave.com/) |[🛠️](https://github.com/brave/brave-browser) | [🛍️](https://laptop-updates.brave.com/download/BRV010)|
 
 ### Сигурност
 
-- [**NetGuard**](https://netguard.me/) [🔀](https://github.com/M66B/NetGuard)
-
-- [**PCAPdroid**](https://emanuele-f.github.io/PCAPdroid/) [🔀](https://github.com/emanuele-f/PCAPdroid)
-
-- **Shelter** [🔀](https://gitea.angry.im/PeterCxy/Shelter)
-
-- **Scrambled Exif** [🔀](https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD)
-
-- [**Exodus**](https://exodus-privacy.eu.org/en/) [🔀](https://github.com/Exodus-Privacy/exodus-android-app)
+| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
+| **NetGuard**    | [🌐](https://netguard.me/) | [🛠️](https://github.com/M66B/NetGuard)             | [🛍️](https://f-droid.org/en/packages/eu.faircode.netguard/) |
+| **PCAPdroid**   | [🌐](https://emanuele-f.github.io/PCAPdroid/) | [🛠️](https://github.com/emanuele-f/PCAPdroid) | [🛍️](https://f-droid.org/en/packages/com.emanuelef.remote_capture/) |
+| **Shelter**     | ⛔                         | [🛠️](https://gitea.angry.im/PeterCxy/Shelter) | [🛍️](https://f-droid.org/en/packages/net.typeblog.shelter/) |
+| **Cryptomator** | [🌐](https://cryptomator.org/)| [🛠️](https://github.com/cryptomator/android) | [🛍️](https://f-droid.org/en/packages/org.cryptomator.lite/) |
+| **Scrambled Exif** | ⛔                      | [🛠️](https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD) | [🛍️](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/) |
+| **Exodus** | [🌐](https://exodus-privacy.eu.org/en/) | [🛠️](https://github.com/Exodus-Privacy/exodus-android-app) | [🛍️](https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy/) |
 
 ### Мениджър на пароли и двуфакторно удостоверяване (**2FA**)
 
-- [**Bitwarden**](https://bitwarden.com/) [🔀](https://github.com/bitwarden/mobile)
-
-- [**Aegis**](https://getaegis.app/) [🔀](https://github.com/beemdevelopment/Aegis)
+| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:----------------|:----------------------------:|:----------------------:|:-------------------------:|
+| **Bitwarden**   | [🌐](https://bitwarden.com/) | [🛠️](https://github.com/bitwarden/mobile) | [🛍️](https://mobileapp.bitwarden.com/fdroid/) |
+| **Aegis**       | [🌐](https://getaegis.app/)  | [🛠️](https://github.com/beemdevelopment/Aegis) | [🛍️](https://f-droid.org/en/packages/com.beemdevelopment.aegis/) |
 
 ### **VPN**
 
-- [**Wireguard**](https://www.wireguard.com/) [🔀](https://github.com/WireGuard/wireguard-android)
+| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
+| **Wireguard** | [🌐](https://www.wireguard.com/) | [🛠️](https://github.com/WireGuard/wireguard-android) | [🛍️](https://download.wireguard.com/android-client/) |
 
 ### Навигация
 
-- [**Organic Maps**](https://organicmaps.app/) [🔀](https://github.com/organicmaps/organicmaps)
-
-- [**OpenStreetMap**](https://www.openstreetmap.org) [🔀](https://github.com/osmandapp/Osmand)
-
-- **GPSTest** [🔀](https://github.com/barbeau/gpstest)
+| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:------------------|:--------------------------:|:----------------------:|:-------------------------:|
+| **Organic Maps**  | [🌐](https://organicmaps.app/)      | [🛠️](https://github.com/organicmaps/organicmaps) | [🛍️](https://f-droid.org/en/packages/app.organicmaps/) |
+| **OpenStreetMap** | [🌐](https://www.openstreetmap.org) | [🛠️](https://github.com/osmandapp/Osmand) | [🛍️](https://f-droid.org/en/packages/net.osmand.plus/) |
+| **GPSTest**       |⛔                                   | [🛠️](https://github.com/barbeau/gpstest) | [🛍️](https://f-droid.org/en/packages/com.android.gpstest.osmdroid/) |
 
 ### Спорт и здраве
 
-- [**Inner Breeze**](https://inner-breeze.app/) [🔀](https://github.com/naoxio/inner_breeze)
-
-- **Passeo** [🔀](https://gitlab.com/pardomi/paseo/tree/HEAD)
+| Приложение       |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:-----------------|:--------------------------:|:----------------------:|:-------------------------:|
+| **Inner Breeze** | [🌐](https://inner-breeze.app/) | [🛠️](https://github.com/naoxio/inner_breeze) | [🛍️](https://f-droid.org/en/packages/io.naox.inbe/) |
+| **Paseo**        | ⛔   |[🛠️](https://gitlab.com/pardomi/paseo/tree/HEAD) | [🛍️](https://f-droid.org/en/packages/ca.chancehorizon.paseo/) |
 
 ### Четене
 
-- **Book Reader** [🔀](https://gitlab.com/axet/android-book-reader/tree/HEAD)
-
-- [**LibreOffice Viewer**](https://www.libreoffice.org/download/download-libreoffice/) [🔀](https://cgit.freedesktop.org/libreoffice/core/tree)
-
-- [**Feeder**](https://news.nononsenseapps.com/) [🔀](https://github.com/spacecowboy/Feeder)
-
-- **Quote Unquote** [🔀](https://github.com/jameshnsears/QuoteUnquote)
+| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
+| **Book Reader** | ⛔ | [🛠️](https://gitlab.com/axet/android-book-reader/tree/HEAD) | [🛍️](https://f-droid.org/en/packages/com.github.axet.bookreader/) |
+| **Librera Reader** | [🌐](https://librera.mobi/) | [🛠️](https://github.com/foobnix/LibreraReader) | [🛍️](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/) |
+| **LibreOffice Viewer** | [🌐](https://www.libreoffice.org/download/download-libreoffice/) | [🛠️](https://cgit.freedesktop.org/libreoffice/core/tree) | [🛍️](https://f-droid.org/en/packages/org.documentfoundation.libreoffice/) |
+| **Feeder** | [🌐](https://news.nononsenseapps.com/) | [🛠️](https://github.com/spacecowboy/Feeder) | [🛍️](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) |
+| **Quote Unquote** | ⛔ | [🛠️](https://github.com/jameshnsears/QuoteUnquote) | [🛍️](https://f-droid.org/en/packages/com.github.jameshnsears.quoteunquote/) |
 
 ### Водене на записки
 
-- [**Joplin**](https://joplinapp.org/) [🔀](https://github.com/laurent22/joplin/)
+| Приложение      |Уеб сайт                      |Сорс код                | Инсталиране               |
+|:----------------|:----------------------------:|:----------------------:|:-------------------------:|
+| **Joplin**      | [🌐](https://joplinapp.org/) | [🛠️](https://github.com/laurent22/joplin/) | [🛍️](https://f-droid.org/en/packages/net.cozic.joplin/) |
 
 ### Синхронизация - Файлове, Календари, Контакти
 
-- [**Nextcloud**](https://nextcloud.com/) [🔀](https://github.com/nextcloud)
-
-- [**DAVx<sup>5</sup>**](https://www.davx5.com/) [🔀](https://github.com/bitfireAT/davx5-ose)
+| Приложение           |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:---------------------|:--------------------------:|:----------------------:|:-------------------------:|
+| **Nextcloud**        | [🌐](https://nextcloud.com/) | [🛠️](https://github.com/nextcloud) | [🛍️](https://f-droid.org/en/packages/com.nextcloud.client/) |
+| **DAVx<sup>5</sup>** | [🌐](https://www.davx5.com/) | [🛠️](https://github.com/bitfireAT/davx5-ose) | [🛍️](https://f-droid.org/packages/at.bitfire.davdroid/) |
 
 ### Електронна поща
 
-- [**K-9 Mail**](https://k9mail.app/) [🔀](https://github.com/k9mail)
+| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
+| **K-9 Mail**    | [🌐](https://k9mail.app/) | [🛠️](https://github.com/k9mail) | [🛍️](https://f-droid.org/en/packages/com.fsck.k9/) |
+| **FairEmail**   | [🌐](https://email.faircode.eu/) | [🛠️](https://github.com/M66B/FairEmail) | [🛍️](https://f-droid.org/en/packages/eu.faircode.email/) |
 
 ### Незабавни съобщения
 
-- [**Conversations**](https://conversations.im/) [🔀](https://codeberg.org/inputmice/Conversations)
-
-- [**Gotify**](https://gotify.net/) [🔀](https://github.com/gotify)
+| Приложение        |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:------------------|:--------------------------:|:----------------------:|:-------------------------:|
+| **Conversations** | [🌐](https://conversations.im/) | [🛠️](https://codeberg.org/inputmice/Conversations) | [🛍️](https://f-droid.org/en/packages/eu.siacs.conversations/) |
+| **Gotify**        | [🌐](https://gotify.net/) | [🛠️](https://github.com/gotify) | [🛍️](https://f-droid.org/en/packages/com.github.gotify/) |
 
 ### Социални мрежи
 
-- [**Element**](https://element.io/) [🔀](https://github.com/element-hq/element-android)
+| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
+| **Element**     | [🌐](https://element.io/) | [🛠️](https://github.com/element-hq/element-android) | [🛍️](https://f-droid.org/en/packages/im.vector.app/) |
 
 ### Прогноза за времето
 
-- **Breezy Weather** [🔀](https://github.com/breezy-weather/breezy-weather)
+| Приложение         |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:-------------------|:--------------------------:|:----------------------:|:-------------------------:|
+| **Breezy Weather** | ⛔ |[🛠️](https://github.com/breezy-weather/breezy-weather) | [🛍️](https://f-droid.org/en/packages/org.breezyweather/) |
 
 ### Галерия - снимки
 
-- [**Fossify Gallery**](https://www.fossify.org/) [🔀](https://github.com/FossifyOrg/Gallery)
+| Приложение          |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:--------------------|:--------------------------:|:----------------------:|:-------------------------:|
+| **Fossify Gallery** | [🌐](https://www.fossify.org/) | [🛠️](https://github.com/FossifyOrg/Gallery) | [🛍️](https://f-droid.org/en/packages/org.fossify.gallery/) |
 
 ### Клиентски карти
 
-- [**Catima**](https://catima.app/) [🔀](https://github.com/CatimaLoyalty)
+| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
+| **Catima**      | [🌐](https://catima.app/) | [🛠️](https://github.com/CatimaLoyalty) | [🛍️](https://f-droid.org/en/packages/me.hackerchick.catima/) |
 
 ### Медия - Аудио/Видео
 
-- [**VLC**](https://www.videolan.org/vlc/download-android.html) [🔀](https://code.videolan.org/videolan/vlc-android)
+| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
+|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
+| **VLC**         | [🌐](https://www.videolan.org/vlc/download-android.html) | [🛠️](https://code.videolan.org/videolan/vlc-android) | [🛍️](https://f-droid.org/en/packages/org.peterbaldwin.client.android.vlcremote/) |
+| **NewPipe**     | [🌐](https://newpipe.net/) | [🛠️](https://github.com/TeamNewPipe/NewPipe) | [🛍️](https://f-droid.org/en/packages/org.schabi.newpipe/) |
 
-- [**NewPipe**](https://newpipe.net/) [🔀](https://github.com/TeamNewPipe/NewPipe)
-
-Разбира се, тази колекция не претендира за изчерпателност. Всеки потребител си има индивидуални нужди. Именно за това са редовете по-долу.
+Този списък не е изчерпателен. Представлява един пример, за това как можем да намерим приложения с отворен код и ценящи личното пространство, за нещата от които се нуждаем в нашето ежедневие. Подобни списъци и допълнителни съвети, относно нашата онлайн активност, са налични в редовете по-долу.
 
 ## Допълнителни ресурси
 
