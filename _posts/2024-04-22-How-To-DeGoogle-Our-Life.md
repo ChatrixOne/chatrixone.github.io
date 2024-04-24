@@ -116,10 +116,11 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 Голяма част от всички налични модификации на **Android**, всъщност са базирани именно на тази операционна система.
 
 - [Уеб сайт](https://lineageos.org/)
-- [Видео презентация](https://youtu.be/JXzunTc_NHA?feature=shared)
 - [Инструкции](https://wiki.lineageos.org/)
 - [Поддържани устройства](https://wiki.lineageos.org/devices/)
 - [Сорс код в Github](https://github.com/LineageOS)
+
+{% include embed/{youtube}.html id='{JXzunTc_NHA}' %}
 
 ### DivestOS
 
