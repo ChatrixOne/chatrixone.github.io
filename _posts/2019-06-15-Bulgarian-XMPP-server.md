@@ -1,7 +1,7 @@
 ---
 title: Български XMPP сървър
 date: 2019-06-15 09:30:00 +0300
-categories: [Публикации, XMPP]
+categories: [Публикации, XMPP, Новини]
 tags: [софтуер,услуга,безплатна,xmpp,комуникация,български,сървър]
 img_path: /assets/img/posts_images/chatrix/
 pin: true
