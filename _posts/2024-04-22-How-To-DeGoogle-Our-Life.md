@@ -251,6 +251,7 @@ _При добре конфигурираните устройства, бате
 |:----------------|:--------------------------:|:----------------------:|:-------------------------:|
 | **F-Droid**     | [🌐](https://f-droid.org/) | [🛠️](https://gitlab.com/fdroid)| [🛍️](https://f-droid.org/F-Droid.apk) |
 | **Aurora Store**| [🌐](https://auroraoss.com/)| [🛠️](https://gitlab.com/AuroraOSS/AuroraStore) | [🛍️](https://f-droid.org/en/packages/com.aurora.store/)|
+|**Obtainium**| [🌐](https://imranr.dev/)| [🛠️](https://github.com/ImranR98/Obtainium) | [🛍️](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)|
 
 ### Начален екран (**Launcher**)
 
