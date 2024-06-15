@@ -165,14 +165,14 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 *Телефонът Ви трябва да е личен. Всеки има нужда от телефон. Не всеки иска да бъде шпиониран. Възстановете поверителността си с **CalyxOS**.*
 
-Операционната система се разработва от [**Calyx Institute**](https://calyxinstitute.org/). Тук също фокусът е върху защита на личното пространство и сигурността.
+Операционната система се разработва от [**Calyx Institute**](https://calyxinstitute.org/). Тук също фокусът е върху защита на личното пространство и сигурността. Инсталацията е до голяма степен автоматизирана, което е от голям плюс за хора, които нямат опит с инсталирането на алтернативни операционни системи.
 
 - [Уеб сайт](https://calyxos.org/)
 - [Инструкции](https://calyxos.org/docs/guide/getting-started/)
 - [Поддържани устройства](https://calyxos.org/docs/guide/device-support/)
 - [Сорс код в GitLab](https://gitlab.com/CalyxOS)
 
-{% include embed/youtube.html id='qTtgzNGRAfA' %}
+{% include embed/youtube.html id='ubcqZvNOXeo' %}
 
 ### /e/OS
 
