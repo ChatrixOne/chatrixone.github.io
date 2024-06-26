@@ -94,7 +94,6 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 | Google       | Pixel 7 Pro    | cheetah     | 13.10.2022        | 01.10.2027             |
 | Google       | Pixel 7        | panther     | 13.10.2022        | 01.10.2027             |
 | Google       | Pixel 7a       | lynx        | 10.05.2023        | 01.05.2028             |
-| Google       | Pixel 7a       | lynx        | 10.05.2023        | 01.05.2028             |
 | Google       | Pixel 6 Pro    | raven       | 28.10.2021        | 01.10.2026             |
 | Google       | Pixel 6        | oriole      | 28.10.2021        | 01.10.2026             |
 | Google       | Pixel 6a       | bluejay     | 28.07.2022        | 01.07.2027             |
