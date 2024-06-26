@@ -84,8 +84,16 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 ### Препоръчителни устройства
 
+- **Google Pixel 8 Pro**;
+- **Google Pixel 8**;
+- **Google Pixel 8a**;
+- **Google Pixel Fold**;
+- **Google Pixel Tablet**;
+- **Google Pixel 7 Pro**;
 - **Google Pixel 7**;
 - **Google Pixel 7a**;
+- **Google Pixel 6 Pro**;
+- **Google Pixel 6**;
 - **Google Pixel 6a**;
 - **Google Pixel 5a**;
 - **Google Pixel 4**;
