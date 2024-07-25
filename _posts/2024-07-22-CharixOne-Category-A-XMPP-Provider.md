@@ -12,7 +12,7 @@ image:
   alt: Честито!
 ---
 
-На 17.07.2024г. Chatrix.One беше включен в списъка на доставчиците на XMPP Providers! Още по-радостната новина е, че услугата беше оценена с най-високата оценка - доставчик **категория А** 🎉. На [статус страницата](https://docs.chatrix.one/status/#%D1%81%D1%8A%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B5-%D0%B8-%D1%81%D1%8A%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82---xmpp) вече е наличен и новият етикет, отразяващ това постижение.
+На 17.07.2024г. Chatrix.One беше включен в списъка на доставчиците на XMPP Providers! Още по-радостната новина е, че услугата беше оценена с максимален резултат - доставчик **категория А** 🎉. На [статус страницата](https://docs.chatrix.one/status/#%D1%81%D1%8A%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B5-%D0%B8-%D1%81%D1%8A%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82---xmpp) вече е наличен и новият етикет, отразяващ това постижение.
 
 ![Chatrix.One Badge](https://data.xmpp.net/providers/v2/badges/chatrix.one.svg)
 
@@ -21,7 +21,7 @@ image:
 ![XMPP Providers Chart](xmpp-providers-chart.jpeg)
 
 - Повече информация можете да прочетете на страницата на [XMPP Providers](https://providers.xmpp.net/)
-- Детайлна информация само за Chatrix.One: [XMPP Providers - Chatrix.One](https://providers.xmpp.net/provider/chatrix.one/)
+- Детайлна информация за Chatrix.One: [XMPP Providers - Chatrix.One](https://providers.xmpp.net/provider/chatrix.one/)
 - Сравнителна таблица на всички доставчици: [XMPP Providers Overview](https://providers.xmpp.net/overview/)
 
 Честито!
