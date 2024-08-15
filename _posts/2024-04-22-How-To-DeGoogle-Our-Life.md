@@ -351,6 +351,7 @@ _При добре конфигурираните устройства, бате
 | **Cryptomator** | [🌐](https://cryptomator.org/)| [🛠️](https://github.com/cryptomator/android) | [🛍️](https://f-droid.org/en/packages/org.cryptomator.lite/) |
 | **Scrambled Exif** | ⛔                      | [🛠️](https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD) | [🛍️](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/) |
 | **Exodus** | [🌐](https://exodus-privacy.eu.org/en/) | [🛠️](https://github.com/Exodus-Privacy/exodus-android-app) | [🛍️](https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy/) |
+| **Find My Device (FMD)** | [🌐](https://fmd.nulide.de:1008/) | [🛠️](https://gitlab.com/Nulide/findmydevice) | [🛍️](https://f-droid.org/packages/de.nulide.findmydevice/) |
 
 ### Мениджър на пароли и двуфакторно удостоверяване (**2FA**)
 
