@@ -3,7 +3,7 @@ title: MITM атаката спрямо Jabber.ru
 date: 2023-10-25 08:15:00 +0300
 categories: [Публикации, Сигурност, Новини]
 tags: [xmpp,mitm,hardening,news,сигурност,уязвимост,атака,jabber.ru,xmpp.ru]
-img_path: /assets/img/posts_images/mitm-attack/
+media_subpath: /assets/img/posts_images/mitm-attack/
 image:
   path: mitm.jpg
   width: 800

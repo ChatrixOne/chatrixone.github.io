@@ -3,7 +3,7 @@ title: Chatrix.One - доставчик категория A
 date: 2024-07-22 08:30:00 +0300
 categories: [Публикации, Новини]
 tags: [xmpp,news,provider,category,A]
-img_path: /assets/img/posts_images/xmpp-providers-category-A/
+media_subpath: /assets/img/posts_images/xmpp-providers-category-A/
 pin: false
 image:
   path: xmpp-providers.jpeg

@@ -3,7 +3,7 @@ title: Как да премахнем Google от нашия личен живо
 date: 2024-04-22 13:30:00 +0300
 categories: [Публикации, Инструкции, Лични пространство, Поверителност]
 tags: [android,андроид,google,гугъл,degoogle,privacy,лично пространство,поверителност,личен живот,смартфон,smartphone]
-img_path: /assets/img/posts_images/degoogle-our-life/
+media_subpath: /assets/img/posts_images/degoogle-our-life/
 pin: false
 image:
   path: degoogle.jpg

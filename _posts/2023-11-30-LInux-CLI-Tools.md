@@ -3,7 +3,7 @@ title: Линукс терминал - любими инструменти
 date: 2023-11-30 08:20:00 +0300
 categories: [Публикации, Колекции]
 tags: [linux,cli,tools,линукс,инструменти,команди,терминал,колекция]
-img_path: /assets/img/posts_images/linux_cli_tools/
+media_subpath: /assets/img/posts_images/linux_cli_tools/
 image:
   path: linux-cli-tools.jpg
   width: 800

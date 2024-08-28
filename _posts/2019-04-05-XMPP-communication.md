@@ -3,7 +3,7 @@ title: XMPP - Комуникирай свободно!
 date: 2019-04-05 09:45:00 +0300
 categories: [Публикации, XMPP]
 tags: [xmpp,услуга,безплатна,свободна,комуникация]
-img_path: /assets/img/posts_images/xmpp_communication/
+media_subpath: /assets/img/posts_images/xmpp_communication/
 pin: true
 image:
   path: xmpp.jpg

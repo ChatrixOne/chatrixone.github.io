@@ -3,7 +3,7 @@ title: Запознайте се с Markdown
 date: 2021-04-30 19:15:00 +0300
 categories: [Публикации, Инструкции]
 tags: [документи,бележки,оформление,форматиране,текст,markdown,записки]
-img_path: /assets/img/posts_images/meet_markdown/
+media_subpath: /assets/img/posts_images/meet_markdown/
 image:
   path: markdown.jpg
   width: 800
