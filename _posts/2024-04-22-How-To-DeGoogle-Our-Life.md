@@ -406,7 +406,7 @@ _При добре конфигурираните устройства, бате
 |:---------------------|:--------------------------:|:----------------------:|:-------------------------:|
 | **Nextcloud**        | [🌐](https://nextcloud.com/) | [🛠️](https://github.com/nextcloud) | [🛍️](https://f-droid.org/en/packages/com.nextcloud.client/) |
 | **DAVx<sup>5</sup>** | [🌐](https://www.davx5.com/) | [🛠️](https://github.com/bitfireAT/davx5-ose) | [🛍️](https://f-droid.org/packages/at.bitfire.davdroid/) |
-|**LocalSend**         | [🌐](https://localsend.org/) | [🛠️](https://github.com/localsend/localsend) | [🛍️](https://f-droid.org/packages/org.localsend.localsend_app/ | 
+|**LocalSend**         | [🌐](https://localsend.org/) | [🛠️](https://github.com/localsend/localsend) | [🛍️](https://f-droid.org/packages/org.localsend.localsend_app/) |
 
 ### Електронна поща
 
