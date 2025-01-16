@@ -91,30 +91,30 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 ### Препоръчителни устройства
 
-| Производител | Модел          | Кодово Име     | Пуснат в продажба     | Поддържан до     |
-|:------------:|:--------------:|:--------------:|:---------------------:|:----------------:|
-| Google       | Pixel 9 Pro XL | komodo         | 22.08.2024            | 01.08.2031       |
-| Google       | Pixel 9 Pro    | caiman         | 04.09.2024            | 01.09.2031       |
-| Google       | Pixel 9        | tokay          | 22.08.2024            | 01.08.2031       |
-| Google       | Pixel 8 Pro    | husky          | 04.10.2023            | 01.10.2030       |
-| Google       | Pixel 8        | shiba          | 04.10.2023            | 01.10.2030       |
-| Google       | Pixel 8a       | akita          | 14.05.2024            | 01.05.2031       |
-| Google       | Pixel Fold     | felix          | 28.06.2023            | 01.06.2028       |
-| Google       | Pixel Tablet   | tangorpro      | 20.06.2023            | 01.06.2028       |
-| Google       | Pixel 7 Pro    | cheetah        | 13.10.2022            | 01.10.2027       |
-| Google       | Pixel 7        | panther        | 13.10.2022            | 01.10.2027       |
-| Google       | Pixel 7a       | lynx           | 10.05.2023            | 01.05.2028       |
-| Google       | Pixel 6 Pro    | raven          | 28.10.2021            | 01.10.2026       |
-| Google       | Pixel 6        | oriole         | 28.10.2021            | 01.10.2026       |
-| Google       | Pixel 6a       | bluejay        | 28.07.2022            | 01.07.2027       |
-| ~~Google~~   | ~~Pixel 5a~~   | ~~barbet~~     | ~~26.08.2021~~        | ~~01.08.2024~~   |
-| ~~Google~~   | ~~Pixel 4~~    | ~~flame~~      | ~~24.10.2019~~        | ~~05.10.2022~~   |
-| ~~Google~~   | ~~Pixel 4a~~   | ~~sunfish~~    | ~~20.08.2020~~        | ~~05.08.2023~~   |
-| ~~Google~~   | ~~Pixel 3XL~~  | ~~crosshatch~~ | ~~09.10.2018~~        | ~~05.10.2021~~   |
-| ~~Google~~   | ~~Pixel 3~~    | ~~blueline~~   | ~~09.10.2018~~        | ~~05.10.2021~~   |
-| ~~Google~~   | ~~Pixel 3a~~   | ~~sargo~~      | ~~07.05.2019~~        | ~~05.05.2022~~   |
-| ~~Google~~   | ~~Pixel 2XL~~  | ~~taimen~~     | ~~19.10.2017~~        | ~~01.10.2020~~   |
-| ~~Google~~   | ~~Pixel 2~~    | ~~walleye~~    | ~~19.10.2017~~        | ~~01.10.2020~~   |
+| Производител |     Модел      |   Кодово Име   | Пуснат в продажба |  Поддържан до  |
+| :----------: | :------------: | :------------: | :---------------: | :------------: |
+|    Google    | Pixel 9 Pro XL |     komodo     |    22.08.2024     |   01.08.2031   |
+|    Google    |  Pixel 9 Pro   |     caiman     |    04.09.2024     |   01.09.2031   |
+|    Google    |    Pixel 9     |     tokay      |    22.08.2024     |   01.08.2031   |
+|    Google    |  Pixel 8 Pro   |     husky      |    04.10.2023     |   01.10.2030   |
+|    Google    |    Pixel 8     |     shiba      |    04.10.2023     |   01.10.2030   |
+|    Google    |    Pixel 8a    |     akita      |    14.05.2024     |   01.05.2031   |
+|    Google    |   Pixel Fold   |     felix      |    28.06.2023     |   01.06.2028   |
+|    Google    |  Pixel Tablet  |   tangorpro    |    20.06.2023     |   01.06.2028   |
+|    Google    |  Pixel 7 Pro   |    cheetah     |    13.10.2022     |   01.10.2027   |
+|    Google    |    Pixel 7     |    panther     |    13.10.2022     |   01.10.2027   |
+|    Google    |    Pixel 7a    |      lynx      |    10.05.2023     |   01.05.2028   |
+|    Google    |  Pixel 6 Pro   |     raven      |    28.10.2021     |   01.10.2026   |
+|    Google    |    Pixel 6     |     oriole     |    28.10.2021     |   01.10.2026   |
+|    Google    |    Pixel 6a    |    bluejay     |    28.07.2022     |   01.07.2027   |
+|  ~~Google~~  |  ~~Pixel 5a~~  |   ~~barbet~~   |  ~~26.08.2021~~   | ~~01.08.2024~~ |
+|  ~~Google~~  |  ~~Pixel 4~~   |   ~~flame~~    |  ~~24.10.2019~~   | ~~05.10.2022~~ |
+|  ~~Google~~  |  ~~Pixel 4a~~  |  ~~sunfish~~   |  ~~20.08.2020~~   | ~~05.08.2023~~ |
+|  ~~Google~~  | ~~Pixel 3XL~~  | ~~crosshatch~~ |  ~~09.10.2018~~   | ~~05.10.2021~~ |
+|  ~~Google~~  |  ~~Pixel 3~~   |  ~~blueline~~  |  ~~09.10.2018~~   | ~~05.10.2021~~ |
+|  ~~Google~~  |  ~~Pixel 3a~~  |   ~~sargo~~    |  ~~07.05.2019~~   | ~~05.05.2022~~ |
+|  ~~Google~~  | ~~Pixel 2XL~~  |   ~~taimen~~   |  ~~19.10.2017~~   | ~~01.10.2020~~ |
+|  ~~Google~~  |  ~~Pixel 2~~   |  ~~walleye~~   |  ~~19.10.2017~~   | ~~01.10.2020~~ |
 
 > **Предупреждение!**
 >
@@ -148,6 +148,12 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 *Мобилна операционна система, страняща от нормата. "Върнете (частично) контрола върху вашето устройство".*
 
+> **Внимание!**
+>
+> От декември 2024г. разработката и поддръжката на операционната система е прекратена! Достъпът 
+> до официалния уебсайт е преустановен. *Успех Тави!*
+{: .prompt-danger }
+
 Разработката на проекта, е започнала още през 2014г., от [**Divested Computing Group**](https://divested.dev/). Основната цел е, удължаване живота на устройства, за които производителите вече не предлагат актуализации. Сигурността и поверителността са приоритет.
 
 > **Пример:**
@@ -157,7 +163,7 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 **DivestOS** предоставя удобен начин, за блокиране достъпа до камерата и микрофона, само чрез едно докосване, в бързите настройки. По подразбиране е включена опция за премахване на голям брой реклами и тракери, която може да бъде изключена от настройките. Броят, на предварително инсталираните приложения, е сведен до минимум. Устройството съхранява данните в криптиран вид. С цел гарантиране цялостта на операционната система, след инсталиране има възможност за последващо заключване на **bootloader**-а. Актуализациите са ежемесечни.
 
-На 18.03.2023г. в Бостън, щата Масачузетс, на ежегодната конференция на [**Free Software Foundation - FSF**](https://www.fsf.org/), разработчикът на **DivestOS** - **Tad (SkewedZeppelin)**, е отличен с награда за значителен принос в сферата на свободния софтуер. Повече информация относно събитието, можете да прочетете на страницата на [**FSF**](https://www.fsf.org/news/free-software-awards-winners-announced-eli-zaretskii-tad-skewedzeppelin-gnu-jami).
+На 18.03.2023г. в Бостън, щата Масачузетс, на ежегодната конференция на [**Free Software Foundation - FSF**](https://www.fsf.org/), разработчикът на **DivestOS** - **Tad (*Tavi, SkewedZeppelin*)**, е отличен с награда за значителен принос в сферата на свободния софтуер. Повече информация относно събитието, можете да прочетете на страницата на [**FSF**](https://www.fsf.org/news/free-software-awards-winners-announced-eli-zaretskii-tad-skewedzeppelin-gnu-jami).
 
 - [Уеб сайт](https://divestos.org/)
 - [Инструкции](https://divestos.org/pages/bootloader)
@@ -295,9 +301,9 @@ _При добре конфигурираните устройства, бате
 
 ### Алтернатива на **Google Play Services**
 
-| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
-|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
-| **MicroG**      | [🌐](https://microg.org/) | [🛠️](https://github.com/microg)| [🛍️](https://microg.org/fdroid.html) |
+| Приложение |         Уеб сайт         |            Сорс код            |             Инсталиране             |
+| :--------- | :----------------------: | :----------------------------: | :---------------------------------: |
+| **MicroG** | [🌐](https://microg.org/) | [🛠️](https://github.com/microg) | [🛍️](https://microg.org/fdroid.html) |
 
 > **Съвет:**
 >
@@ -306,18 +312,18 @@ _При добре конфигурираните устройства, бате
 
 ### Магазини за безплатни (свободни) приложения
 
-| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
-|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
-| **F-Droid**     | [🌐](https://f-droid.org/) | [🛠️](https://gitlab.com/fdroid)| [🛍️](https://f-droid.org/F-Droid.apk) |
-| **Aurora Store**| [🌐](https://auroraoss.com/)| [🛠️](https://gitlab.com/AuroraOSS/AuroraStore) | [🛍️](https://f-droid.org/en/packages/com.aurora.store/)|
-|**Obtainium**| [🌐](https://imranr.dev/)| [🛠️](https://github.com/ImranR98/Obtainium) | [🛍️](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)|
+| Приложение       |          Уеб сайт           |                   Сорс код                    |                          Инсталиране                           |
+| :--------------- | :-------------------------: | :-------------------------------------------: | :------------------------------------------------------------: |
+| **F-Droid**      |  [🌐](https://f-droid.org/)  |        [🛠️](https://gitlab.com/fdroid)         |              [🛍️](https://f-droid.org/F-Droid.apk)              |
+| **Aurora Store** | [🌐](https://auroraoss.com/) | [🛠️](https://gitlab.com/AuroraOSS/AuroraStore) |     [🛍️](https://f-droid.org/en/packages/com.aurora.store/)     |
+| **Obtainium**    |  [🌐](https://imranr.dev/)   |  [🛠️](https://github.com/ImranR98/Obtainium)   | [🛍️](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/) |
 
 ### Начален екран (**Launcher**)
 
-| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
-|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
-| **Trebuchet**   | ⛔                          | [🛠️](https://github.com/LineageOS/) | Инсталиран по подразбиране |
-| **Lawnchair**   | [🌐](https://lawnchair.app/)| [🛠️](https://github.com/LawnchairLauncher/lawnchair) | [🛍️](https://lawnchair.app/downloads/)|
+| Приложение    |          Уеб сайт           |                      Сорс код                       |              Инсталиране              |
+| :------------ | :-------------------------: | :-------------------------------------------------: | :-----------------------------------: |
+| **Trebuchet** |              ⛔              |         [🛠️](https://github.com/LineageOS/)          |      Инсталиран по подразбиране       |
+| **Lawnchair** | [🌐](https://lawnchair.app/) | [🛠️](https://github.com/LawnchairLauncher/lawnchair) | [🛍️](https://lawnchair.app/downloads/) |
 
 ### Клавиатура
 
@@ -338,116 +344,116 @@ _При добре конфигурираните устройства, бате
 
 ### Уеб браузър и добавки
 
-| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
-|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
-| **Mull** + **uBlock Origin** | ⛔ + [🌐](https://ublockorigin.com/) | [🛠️](https://codeberg.org/divested-mobile/mull-fenix) + [🛠️](https://github.com/gorhill/uBlock)| [🛍️](https://f-droid.org/packages/us.spotco.fennec_dos/) + [🛍️](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|
-| **Firefox** + **uBlock Origin** | [🌐](https://www.mozilla.org/en-US/firefox/) + [🌐](https://ublockorigin.com/) | ⛔ + [🛠️](https://github.com/gorhill/uBlock) | [🛍️](https://play.google.com/store/apps/details?id=org.mozilla.firefox&referrer=utm_source%3Dwww.mozilla.org%26utm_medium%3Dreferral%26utm_campaign%3Dfirefox-browsers-mobile-android&hl=en) + [🛍️](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|
-|**Brave** | [🌐](https://brave.com/) |[🛠️](https://github.com/brave/brave-browser) | [🛍️](https://laptop-updates.brave.com/download/BRV010)|
+| Приложение                      |                                   Уеб сайт                                   |                                           Сорс код                                            |                                                                                                                           Инсталиране                                                                                                                            |
+| :------------------------------ | :--------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Mull** + **uBlock Origin**    |                      ⛔ + [🌐](https://ublockorigin.com/)                      | [🛠️](https://codeberg.org/divested-mobile/mull-fenix) + [🛠️](https://github.com/gorhill/uBlock) |                                                                   [🛍️](https://f-droid.org/packages/us.spotco.fennec_dos/) + [🛍️](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)                                                                   |
+| **Firefox** + **uBlock Origin** | [🌐](https://www.mozilla.org/en-US/firefox/) + [🌐](https://ublockorigin.com/) |                          ⛔ + [🛠️](https://github.com/gorhill/uBlock)                           | [🛍️](https://play.google.com/store/apps/details?id=org.mozilla.firefox&referrer=utm_source%3Dwww.mozilla.org%26utm_medium%3Dreferral%26utm_campaign%3Dfirefox-browsers-mobile-android&hl=en) + [🛍️](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) |
+| **Brave**                       |                           [🌐](https://brave.com/)                            |                          [🛠️](https://github.com/brave/brave-browser)                          |                                                                                                      [🛍️](https://laptop-updates.brave.com/download/BRV010)                                                                                                       |
 
 ### Сигурност
 
-| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
-|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
-| **NetGuard**    | [🌐](https://netguard.me/) | [🛠️](https://github.com/M66B/NetGuard)             | [🛍️](https://f-droid.org/en/packages/eu.faircode.netguard/) |
-| **PCAPdroid**   | [🌐](https://emanuele-f.github.io/PCAPdroid/) | [🛠️](https://github.com/emanuele-f/PCAPdroid) | [🛍️](https://f-droid.org/en/packages/com.emanuelef.remote_capture/) |
-| **Shelter**     | ⛔                         | [🛠️](https://gitea.angry.im/PeterCxy/Shelter) | [🛍️](https://f-droid.org/en/packages/net.typeblog.shelter/) |
-| **Cryptomator** | [🌐](https://cryptomator.org/)| [🛠️](https://github.com/cryptomator/android) | [🛍️](https://f-droid.org/en/packages/org.cryptomator.lite/) |
-| **Scrambled Exif** | ⛔                      | [🛠️](https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD) | [🛍️](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/) |
-| **Exodus** | [🌐](https://exodus-privacy.eu.org/en/) | [🛠️](https://github.com/Exodus-Privacy/exodus-android-app) | [🛍️](https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy/) |
-| **Find My Device (FMD)** | [🌐](https://fmd.nulide.de:1008/) | [🛠️](https://gitlab.com/Nulide/findmydevice) | [🛍️](https://f-droid.org/packages/de.nulide.findmydevice/) |
+| Приложение               |                   Уеб сайт                   |                            Сорс код                             |                                Инсталиране                                 |
+| :----------------------- | :------------------------------------------: | :-------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| **NetGuard**             |          [🌐](https://netguard.me/)           |              [🛠️](https://github.com/M66B/NetGuard)              |         [🛍️](https://f-droid.org/en/packages/eu.faircode.netguard/)         |
+| **PCAPdroid**            | [🌐](https://emanuele-f.github.io/PCAPdroid/) |          [🛠️](https://github.com/emanuele-f/PCAPdroid)           |     [🛍️](https://f-droid.org/en/packages/com.emanuelef.remote_capture/)     |
+| **Shelter**              |                      ⛔                       |          [🛠️](https://gitea.angry.im/PeterCxy/Shelter)           |         [🛍️](https://f-droid.org/en/packages/net.typeblog.shelter/)         |
+| **Cryptomator**          |        [🌐](https://cryptomator.org/)         |           [🛠️](https://github.com/cryptomator/android)           |         [🛍️](https://f-droid.org/en/packages/org.cryptomator.lite/)         |
+| **Scrambled Exif**       |                      ⛔                       | [🛠️](https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD) | [🛍️](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/) |
+| **Exodus**               |    [🌐](https://exodus-privacy.eu.org/en/)    |    [🛠️](https://github.com/Exodus-Privacy/exodus-android-app)    | [🛍️](https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy/)  |
+| **Find My Device (FMD)** |       [🌐](https://fmd.nulide.de:1008/)       |           [🛠️](https://gitlab.com/Nulide/findmydevice)           |         [🛍️](https://f-droid.org/packages/de.nulide.findmydevice/)          |
 
 ### Мениджър на пароли и двуфакторно удостоверяване (**2FA**)
 
-| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
-|:----------------|:----------------------------:|:----------------------:|:-------------------------:|
-| **Bitwarden**   | [🌐](https://bitwarden.com/) | [🛠️](https://github.com/bitwarden/mobile) | [🛍️](https://mobileapp.bitwarden.com/fdroid/) |
-| **Aegis**       | [🌐](https://getaegis.app/)  | [🛠️](https://github.com/beemdevelopment/Aegis) | [🛍️](https://f-droid.org/en/packages/com.beemdevelopment.aegis/) |
+| Приложение    |          Уеб сайт           |                   Сорс код                    |                           Инсталиране                           |
+| :------------ | :-------------------------: | :-------------------------------------------: | :-------------------------------------------------------------: |
+| **Bitwarden** | [🌐](https://bitwarden.com/) |   [🛠️](https://github.com/bitwarden/mobile)    |          [🛍️](https://mobileapp.bitwarden.com/fdroid/)           |
+| **Aegis**     | [🌐](https://getaegis.app/)  | [🛠️](https://github.com/beemdevelopment/Aegis) | [🛍️](https://f-droid.org/en/packages/com.beemdevelopment.aegis/) |
 
 ### **VPN**
 
-| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
-|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
+| Приложение    |            Уеб сайт             |                      Сорс код                       |                     Инсталиране                     |
+| :------------ | :-----------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
 | **Wireguard** | [🌐](https://www.wireguard.com/) | [🛠️](https://github.com/WireGuard/wireguard-android) | [🛍️](https://download.wireguard.com/android-client/) |
 
 ### Навигация
 
-| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
-|:------------------|:--------------------------:|:----------------------:|:-------------------------:|
-| **Organic Maps**  | [🌐](https://organicmaps.app/)      | [🛠️](https://github.com/organicmaps/organicmaps) | [🛍️](https://f-droid.org/en/packages/app.organicmaps/) |
-| **OpenStreetMap** | [🌐](https://www.openstreetmap.org) | [🛠️](https://github.com/osmandapp/Osmand) | [🛍️](https://f-droid.org/en/packages/net.osmand.plus/) |
-| **GPSTest**       |⛔                                   | [🛠️](https://github.com/barbeau/gpstest) | [🛍️](https://f-droid.org/en/packages/com.android.gpstest.osmdroid/) |
+| Приложение        |              Уеб сайт              |                    Сорс код                     |                            Инсталиране                             |
+| :---------------- | :--------------------------------: | :---------------------------------------------: | :----------------------------------------------------------------: |
+| **Organic Maps**  |   [🌐](https://organicmaps.app/)    | [🛠️](https://github.com/organicmaps/organicmaps) |       [🛍️](https://f-droid.org/en/packages/app.organicmaps/)        |
+| **OpenStreetMap** | [🌐](https://www.openstreetmap.org) |    [🛠️](https://github.com/osmandapp/Osmand)     |       [🛍️](https://f-droid.org/en/packages/net.osmand.plus/)        |
+| **GPSTest**       |                 ⛔                  |     [🛠️](https://github.com/barbeau/gpstest)     | [🛍️](https://f-droid.org/en/packages/com.android.gpstest.osmdroid/) |
 
 ### Спорт и здраве
 
-| Приложение       |Уеб сайт                    |Сорс код                | Инсталиране               |
-|:-----------------|:--------------------------:|:----------------------:|:-------------------------:|
-| **Inner Breeze** | [🌐](https://inner-breeze.app/) | [🛠️](https://github.com/naoxio/inner_breeze) | [🛍️](https://f-droid.org/en/packages/io.naox.inbe/) |
-| **Paseo**        | ⛔   |[🛠️](https://gitlab.com/pardomi/paseo/tree/HEAD) | [🛍️](https://f-droid.org/en/packages/ca.chancehorizon.paseo/) |
+| Приложение       |            Уеб сайт            |                    Сорс код                     |                         Инсталиране                          |
+| :--------------- | :----------------------------: | :---------------------------------------------: | :----------------------------------------------------------: |
+| **Inner Breeze** | [🌐](https://inner-breeze.app/) |   [🛠️](https://github.com/naoxio/inner_breeze)   |      [🛍️](https://f-droid.org/en/packages/io.naox.inbe/)      |
+| **Paseo**        |               ⛔                | [🛠️](https://gitlab.com/pardomi/paseo/tree/HEAD) | [🛍️](https://f-droid.org/en/packages/ca.chancehorizon.paseo/) |
 
 ### Четене
 
-| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
-|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
-| **Book Reader** | ⛔ | [🛠️](https://gitlab.com/axet/android-book-reader/tree/HEAD) | [🛍️](https://f-droid.org/en/packages/com.github.axet.bookreader/) |
-| **Librera Reader** | [🌐](https://librera.mobi/) | [🛠️](https://github.com/foobnix/LibreraReader) | [🛍️](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/) |
-| **LibreOffice Viewer** | [🌐](https://www.libreoffice.org/download/download-libreoffice/) | [🛠️](https://cgit.freedesktop.org/libreoffice/core/tree) | [🛍️](https://f-droid.org/en/packages/org.documentfoundation.libreoffice/) |
-| **Feeder** | [🌐](https://news.nononsenseapps.com/) | [🛠️](https://github.com/spacecowboy/Feeder) | [🛍️](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) |
-| **Quote Unquote** | ⛔ | [🛠️](https://github.com/jameshnsears/QuoteUnquote) | [🛍️](https://f-droid.org/en/packages/com.github.jameshnsears.quoteunquote/) |
+| Приложение             |                            Уеб сайт                             |                          Сорс код                          |                                Инсталиране                                 |
+| :--------------------- | :-------------------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------------------------------------------: |
+| **Book Reader**        |                                ⛔                                | [🛠️](https://gitlab.com/axet/android-book-reader/tree/HEAD) |      [🛍️](https://f-droid.org/en/packages/com.github.axet.bookreader/)      |
+| **Librera Reader**     |                   [🌐](https://librera.mobi/)                    |       [🛠️](https://github.com/foobnix/LibreraReader)        |      [🛍️](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/)      |
+| **LibreOffice Viewer** | [🌐](https://www.libreoffice.org/download/download-libreoffice/) |  [🛠️](https://cgit.freedesktop.org/libreoffice/core/tree)   |  [🛍️](https://f-droid.org/en/packages/org.documentfoundation.libreoffice/)  |
+| **Feeder**             |              [🌐](https://news.nononsenseapps.com/)              |         [🛠️](https://github.com/spacecowboy/Feeder)         |      [🛍️](https://f-droid.org/en/packages/com.nononsenseapps.feeder/)       |
+| **Quote Unquote**      |                                ⛔                                |     [🛠️](https://github.com/jameshnsears/QuoteUnquote)      | [🛍️](https://f-droid.org/en/packages/com.github.jameshnsears.quoteunquote/) |
 
 ### Водене на записки
 
-| Приложение      |Уеб сайт                      |Сорс код                | Инсталиране               |
-|:----------------|:----------------------------:|:----------------------:|:-------------------------:|
-| **Joplin**      | [🌐](https://joplinapp.org/) | [🛠️](https://github.com/laurent22/joplin/) | [🛍️](https://f-droid.org/en/packages/net.cozic.joplin/) |
+| Приложение |          Уеб сайт           |                 Сорс код                  |                      Инсталиране                       |
+| :--------- | :-------------------------: | :---------------------------------------: | :----------------------------------------------------: |
+| **Joplin** | [🌐](https://joplinapp.org/) | [🛠️](https://github.com/laurent22/joplin/) | [🛍️](https://f-droid.org/en/packages/net.cozic.joplin/) |
 
 ### Синхронизация - Файлове, Календари, Контакти
 
-| Приложение           |Уеб сайт                    |Сорс код                | Инсталиране               |
-|:---------------------|:--------------------------:|:----------------------:|:-------------------------:|
-| **Nextcloud**        | [🌐](https://nextcloud.com/) | [🛠️](https://github.com/nextcloud) | [🛍️](https://f-droid.org/en/packages/com.nextcloud.client/) |
-| **DAVx<sup>5</sup>** | [🌐](https://www.davx5.com/) | [🛠️](https://github.com/bitfireAT/davx5-ose) | [🛍️](https://f-droid.org/packages/at.bitfire.davdroid/) |
-|**LocalSend**         | [🌐](https://localsend.org/) | [🛠️](https://github.com/localsend/localsend) | [🛍️](https://f-droid.org/packages/org.localsend.localsend_app/) |
+| Приложение           |          Уеб сайт           |                  Сорс код                   |                          Инсталиране                           |
+| :------------------- | :-------------------------: | :-----------------------------------------: | :------------------------------------------------------------: |
+| **Nextcloud**        | [🌐](https://nextcloud.com/) |      [🛠️](https://github.com/nextcloud)      |   [🛍️](https://f-droid.org/en/packages/com.nextcloud.client/)   |
+| **DAVx<sup>5</sup>** | [🌐](https://www.davx5.com/) | [🛠️](https://github.com/bitfireAT/davx5-ose) |     [🛍️](https://f-droid.org/packages/at.bitfire.davdroid/)     |
+| **LocalSend**        | [🌐](https://localsend.org/) | [🛠️](https://github.com/localsend/localsend) | [🛍️](https://f-droid.org/packages/org.localsend.localsend_app/) |
 
 ### Електронна поща
 
-| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
-|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
-| **K-9 Mail**    | [🌐](https://k9mail.app/) | [🛠️](https://github.com/k9mail) | [🛍️](https://f-droid.org/en/packages/com.fsck.k9/) |
-| **FairEmail**   | [🌐](https://email.faircode.eu/) | [🛠️](https://github.com/M66B/FairEmail) | [🛍️](https://f-droid.org/en/packages/eu.faircode.email/) |
+| Приложение    |            Уеб сайт             |                Сорс код                |                       Инсталиране                       |
+| :------------ | :-----------------------------: | :------------------------------------: | :-----------------------------------------------------: |
+| **K-9 Mail**  |    [🌐](https://k9mail.app/)     |     [🛠️](https://github.com/k9mail)     |    [🛍️](https://f-droid.org/en/packages/com.fsck.k9/)    |
+| **FairEmail** | [🌐](https://email.faircode.eu/) | [🛠️](https://github.com/M66B/FairEmail) | [🛍️](https://f-droid.org/en/packages/eu.faircode.email/) |
 
 ### Незабавни съобщения
 
-| Приложение        |Уеб сайт                    |Сорс код                | Инсталиране               |
-|:------------------|:--------------------------:|:----------------------:|:-------------------------:|
+| Приложение        |            Уеб сайт            |                     Сорс код                      |                         Инсталиране                          |
+| :---------------- | :----------------------------: | :-----------------------------------------------: | :----------------------------------------------------------: |
 | **Conversations** | [🌐](https://conversations.im/) | [🛠️](https://codeberg.org/inputmice/Conversations) | [🛍️](https://f-droid.org/en/packages/eu.siacs.conversations/) |
-| **Gotify**        | [🌐](https://gotify.net/) | [🛠️](https://github.com/gotify) | [🛍️](https://f-droid.org/en/packages/com.github.gotify/) |
+| **Gotify**        |    [🌐](https://gotify.net/)    |          [🛠️](https://github.com/gotify)           |   [🛍️](https://f-droid.org/en/packages/com.github.gotify/)    |
 
 ### Социални мрежи
 
-| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
-|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
-| **Element**     | [🌐](https://element.io/) | [🛠️](https://github.com/element-hq/element-android) | [🛍️](https://f-droid.org/en/packages/im.vector.app/) |
-| **Mastodon**     | [🌐](https://joinmastodon.org/) | [🛠️](https://github.com/mastodon/mastodon) | [🛍️](https://f-droid.org/packages/org.joinmastodon.android/) |
+| Приложение   |            Уеб сайт            |                      Сорс код                      |                         Инсталиране                         |
+| :----------- | :----------------------------: | :------------------------------------------------: | :---------------------------------------------------------: |
+| **Element**  |    [🌐](https://element.io/)    | [🛠️](https://github.com/element-hq/element-android) |     [🛍️](https://f-droid.org/en/packages/im.vector.app/)     |
+| **Mastodon** | [🌐](https://joinmastodon.org/) |     [🛠️](https://github.com/mastodon/mastodon)      | [🛍️](https://f-droid.org/packages/org.joinmastodon.android/) |
 
 ### Прогноза за времето
 
-| Приложение         |Уеб сайт                    |Сорс код                | Инсталиране               |
-|:-------------------|:--------------------------:|:----------------------:|:-------------------------:|
-| **Breezy Weather** | ⛔ |[🛠️](https://github.com/breezy-weather/breezy-weather) | [🛍️](https://f-droid.org/en/packages/org.breezyweather/) |
+| Приложение         | Уеб сайт |                       Сорс код                        |                       Инсталиране                       |
+| :----------------- | :------: | :---------------------------------------------------: | :-----------------------------------------------------: |
+| **Breezy Weather** |    ⛔     | [🛠️](https://github.com/breezy-weather/breezy-weather) | [🛍️](https://f-droid.org/en/packages/org.breezyweather/) |
 
 ### Клиентски карти
 
-| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
-|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
-| **Catima**      | [🌐](https://catima.app/) | [🛠️](https://github.com/CatimaLoyalty) | [🛍️](https://f-droid.org/en/packages/me.hackerchick.catima/) |
+| Приложение |         Уеб сайт         |               Сорс код                |                         Инсталиране                         |
+| :--------- | :----------------------: | :-----------------------------------: | :---------------------------------------------------------: |
+| **Catima** | [🌐](https://catima.app/) | [🛠️](https://github.com/CatimaLoyalty) | [🛍️](https://f-droid.org/en/packages/me.hackerchick.catima/) |
 
 ### Медия - Аудио, Видео, Снимки
 
-| Приложение      |Уеб сайт                    |Сорс код                | Инсталиране               |
-|:----------------|:--------------------------:|:----------------------:|:-------------------------:|
-| **VLC**         | [🌐](https://www.videolan.org/vlc/download-android.html) | [🛠️](https://code.videolan.org/videolan/vlc-android) | [🛍️](https://f-droid.org/en/packages/org.peterbaldwin.client.android.vlcremote/) |
-| **NewPipe**     | [🌐](https://newpipe.net/) | [🛠️](https://github.com/TeamNewPipe/NewPipe) | [🛍️](https://f-droid.org/en/packages/org.schabi.newpipe/) |
-| **Fossify Gallery** | [🌐](https://www.fossify.org/) | [🛠️](https://github.com/FossifyOrg/Gallery) | [🛍️](https://f-droid.org/en/packages/org.fossify.gallery/) |
+| Приложение          |                        Уеб сайт                         |                      Сорс код                       |                                   Инсталиране                                   |
+| :------------------ | :-----------------------------------------------------: | :-------------------------------------------------: | :-----------------------------------------------------------------------------: |
+| **VLC**             | [🌐](https://www.videolan.org/vlc/download-android.html) | [🛠️](https://code.videolan.org/videolan/vlc-android) | [🛍️](https://f-droid.org/en/packages/org.peterbaldwin.client.android.vlcremote/) |
+| **NewPipe**         |                [🌐](https://newpipe.net/)                |     [🛠️](https://github.com/TeamNewPipe/NewPipe)     |            [🛍️](https://f-droid.org/en/packages/org.schabi.newpipe/)             |
+| **Fossify Gallery** |              [🌐](https://www.fossify.org/)              |     [🛠️](https://github.com/FossifyOrg/Gallery)      |            [🛍️](https://f-droid.org/en/packages/org.fossify.gallery/)            |
 
 Този списък с мобилни приложения не е изчерпателен. Представлява един пример, за това как можем да намерим приложения с отворен код, чиято цел не е да събират нашите данни. Подобен списък, както и допълнителни съвети, можете да прочетете в последния раздел на настоящата статия - "*Допълнителни ресурси*".
 
