@@ -96,6 +96,7 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 |    Google    | Pixel 9 Pro XL |     komodo     |    22.08.2024     |   01.08.2031   |
 |    Google    |  Pixel 9 Pro   |     caiman     |    04.09.2024     |   01.09.2031   |
 |    Google    |    Pixel 9     |     tokay      |    22.08.2024     |   01.08.2031   |
+|    Google    |    Pixel 9a    |      tegu      |    10.02.2025     |   01.04.2032   |
 |    Google    |  Pixel 8 Pro   |     husky      |    04.10.2023     |   01.10.2030   |
 |    Google    |    Pixel 8     |     shiba      |    04.10.2023     |   01.10.2030   |
 |    Google    |    Pixel 8a    |     akita      |    14.05.2024     |   01.05.2031   |
