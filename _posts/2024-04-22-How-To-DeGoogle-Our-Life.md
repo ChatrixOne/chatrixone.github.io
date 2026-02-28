@@ -91,31 +91,35 @@ _Източник: Digital Content Next –  Prof. Douglas C. Schmidt, Vanderbil
 
 ### Препоръчителни устройства
 
-| Производител |     Модел      |   Кодово Име   | Пуснат в продажба |  Поддържан до  |
-| :----------: | :------------: | :------------: | :---------------: | :------------: |
-|    Google    | Pixel 9 Pro XL |     komodo     |    22.08.2024     |   01.08.2031   |
-|    Google    |  Pixel 9 Pro   |     caiman     |    04.09.2024     |   01.09.2031   |
-|    Google    |    Pixel 9     |     tokay      |    22.08.2024     |   01.08.2031   |
-|    Google    |    Pixel 9a    |      tegu      |    10.02.2025     |   01.04.2032   |
-|    Google    |  Pixel 8 Pro   |     husky      |    04.10.2023     |   01.10.2030   |
-|    Google    |    Pixel 8     |     shiba      |    04.10.2023     |   01.10.2030   |
-|    Google    |    Pixel 8a    |     akita      |    14.05.2024     |   01.05.2031   |
-|    Google    |   Pixel Fold   |     felix      |    28.06.2023     |   01.06.2028   |
-|    Google    |  Pixel Tablet  |   tangorpro    |    20.06.2023     |   01.06.2028   |
-|    Google    |  Pixel 7 Pro   |    cheetah     |    13.10.2022     |   01.10.2027   |
-|    Google    |    Pixel 7     |    panther     |    13.10.2022     |   01.10.2027   |
-|    Google    |    Pixel 7a    |      lynx      |    10.05.2023     |   01.05.2028   |
-|    Google    |  Pixel 6 Pro   |     raven      |    28.10.2021     |   01.10.2026   |
-|    Google    |    Pixel 6     |     oriole     |    28.10.2021     |   01.10.2026   |
-|    Google    |    Pixel 6a    |    bluejay     |    28.07.2022     |   01.07.2027   |
-|  ~~Google~~  |  ~~Pixel 5a~~  |   ~~barbet~~   |  ~~26.08.2021~~   | ~~01.08.2024~~ |
-|  ~~Google~~  |  ~~Pixel 4~~   |   ~~flame~~    |  ~~24.10.2019~~   | ~~05.10.2022~~ |
-|  ~~Google~~  |  ~~Pixel 4a~~  |  ~~sunfish~~   |  ~~20.08.2020~~   | ~~05.08.2023~~ |
-|  ~~Google~~  | ~~Pixel 3XL~~  | ~~crosshatch~~ |  ~~09.10.2018~~   | ~~05.10.2021~~ |
-|  ~~Google~~  |  ~~Pixel 3~~   |  ~~blueline~~  |  ~~09.10.2018~~   | ~~05.10.2021~~ |
-|  ~~Google~~  |  ~~Pixel 3a~~  |   ~~sargo~~    |  ~~07.05.2019~~   | ~~05.05.2022~~ |
-|  ~~Google~~  | ~~Pixel 2XL~~  |   ~~taimen~~   |  ~~19.10.2017~~   | ~~01.10.2020~~ |
-|  ~~Google~~  |  ~~Pixel 2~~   |  ~~walleye~~   |  ~~19.10.2017~~   | ~~01.10.2020~~ |
+| Производител |       Модел       |   Кодово Име   | Пуснат в продажба |  Поддържан до  |
+| :----------: | :---------------: | :------------: | :---------------: | :------------: |
+|    Google    | Pixel 10 Pro Fold |     komodo     |    22.08.2024     |   01.08.2032   |
+|    Google    |  Pixel 10 Pro XL  |     caiman     |    04.09.2024     |   01.09.2032   |
+|    Google    |   Pixel 10 Pro    |     tokay      |    22.08.2024     |   01.08.2032   |
+|    Google    |     Pixel 10      |      tegu      |    10.02.2025     |   01.04.2032   |
+|    Google    |  Pixel 9 Pro XL   |     komodo     |    22.08.2024     |   01.08.2031   |
+|    Google    |    Pixel 9 Pro    |     caiman     |    04.09.2024     |   01.09.2031   |
+|    Google    |      Pixel 9      |     tokay      |    22.08.2024     |   01.08.2031   |
+|    Google    |     Pixel 9a      |      tegu      |    10.02.2025     |   01.04.2032   |
+|    Google    |    Pixel 8 Pro    |     husky      |    04.10.2023     |   01.10.2030   |
+|    Google    |      Pixel 8      |     shiba      |    04.10.2023     |   01.10.2030   |
+|    Google    |     Pixel 8a      |     akita      |    14.05.2024     |   01.05.2031   |
+|    Google    |    Pixel Fold     |     felix      |    28.06.2023     |   01.06.2028   |
+|    Google    |   Pixel Tablet    |   tangorpro    |    20.06.2023     |   01.06.2028   |
+|    Google    |    Pixel 7 Pro    |    cheetah     |    13.10.2022     |   01.10.2027   |
+|    Google    |      Pixel 7      |    panther     |    13.10.2022     |   01.10.2027   |
+|    Google    |     Pixel 7a      |      lynx      |    10.05.2023     |   01.05.2028   |
+|    Google    |    Pixel 6 Pro    |     raven      |    28.10.2021     |   01.10.2026   |
+|    Google    |      Pixel 6      |     oriole     |    28.10.2021     |   01.10.2026   |
+|    Google    |     Pixel 6a      |    bluejay     |    28.07.2022     |   01.07.2027   |
+|  ~~Google~~  |   ~~Pixel 5a~~    |   ~~barbet~~   |  ~~26.08.2021~~   | ~~01.08.2024~~ |
+|  ~~Google~~  |    ~~Pixel 4~~    |   ~~flame~~    |  ~~24.10.2019~~   | ~~05.10.2022~~ |
+|  ~~Google~~  |   ~~Pixel 4a~~    |  ~~sunfish~~   |  ~~20.08.2020~~   | ~~05.08.2023~~ |
+|  ~~Google~~  |   ~~Pixel 3XL~~   | ~~crosshatch~~ |  ~~09.10.2018~~   | ~~05.10.2021~~ |
+|  ~~Google~~  |    ~~Pixel 3~~    |  ~~blueline~~  |  ~~09.10.2018~~   | ~~05.10.2021~~ |
+|  ~~Google~~  |   ~~Pixel 3a~~    |   ~~sargo~~    |  ~~07.05.2019~~   | ~~05.05.2022~~ |
+|  ~~Google~~  |   ~~Pixel 2XL~~   |   ~~taimen~~   |  ~~19.10.2017~~   | ~~01.10.2020~~ |
+|  ~~Google~~  |    ~~Pixel 2~~    |  ~~walleye~~   |  ~~19.10.2017~~   | ~~01.10.2020~~ |
 
 > **Предупреждение!**
 >
